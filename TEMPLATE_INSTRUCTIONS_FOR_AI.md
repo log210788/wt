@@ -47,26 +47,40 @@ Automated note-takers frequently mishear place names, architects/authors, homoph
 - **Rule 3**: Use `fixBadge(actualSpokenText, rawNoteTakerText)` inline right next to the corrected phrase in the transcript AND list the top 10–15 fixes in Tab 3 (`ASR_FIXES` array).
 - **Rule 4**: Provide a header toggle button (`toggleAsrBadges()`) that toggles `body.hide-asr-fixes` so the student can view or hide the fix pills anytime.
 
-### 3. Inline Vocabulary Tagging (`v(key, displayWord)`) & Dual Inspection
+### 3. Inline Vocabulary Tagging (`v(key, displayWord)`), Automatic Engine & Dual Inspection
 Every flagged word (`45–60` items across `B2`, `C1`, `C2`, idioms, and phrasal verbs) lives in the central `VOCAB_DB` dictionary object:
 ```js
-"vantage-point": {
-  word: "vantage point",
-  ipa: "/ˈvɑːn.tɪdʒ pɔɪnt/",
+"wicket": {
+  word: "wicket",
+  ipa: "/ˈwɪk.ɪt/",
   pos: "noun",
-  level: "C1",
-  time: "06:54",
-  turnId: "turn-20",
-  cat: "architecture", // category key for filtering
-  def: "A high or peaceful position that gives you a clear, wide view of everything below.",
-  quote: "Louie (06:54): \"...you have a good vantage point where the city still belongs to you.\"",
-  l1: "mirador privilegiado / perspectiva" // Student's native language connection
+  level: "B2",
+  time: "31:57",
+  turnId: "turn-219",
+  aliases: ["wickets", "wicket"],
+  cat: "culture", // category key for filtering
+  def: "In cricket, the structure consisting of three upright wooden stumps topped by two bails that bowlers try to hit.",
+  quote: "Louie (31:57): \"A wicket is three sticks—one, two, three—and a stick on top that they have to strike.\"",
+  l1: "（板球的）三柱門" // Student's native language connection
 }
 ```
-Inside `TRANSCRIPT_TURNS`, wrap occurrences with `${v("vantage-point", "vantage point")}`. This provides **three** connected ways to learn:
-1. **Hovering** in the transcript opens a **Tippy.js** popover (`theme: 'autumn-sanctuary'`) with IPA, level, timestamp, definition, native-language equivalent, and a `🔊 Listen` button.
+Inside `TRANSCRIPT_TURNS`, wrap key occurrences with `${v("wicket", "wicket")}`.
+
+> [!IMPORTANT]
+> **Client-Side Auto-Tagger Requirement (`autoTagTranscriptTurns`)**:
+> Language models generating massive 400+ turn transcripts will inevitably miss manually wrapping words (e.g. leaving words like *"wicket"* as plain text). When this happens, hovering over the word in the transcript fails to show the definition tooltip.
+> **Therefore, `index.html` MUST ALWAYS include the `autoTagTranscriptTurns()` engine**:
+> - It runs on `DOMContentLoaded` before `renderTranscript()`.
+> - It inspects all entries in `VOCAB_DB` (and their `aliases`).
+> - It uses a safe DOM `TreeWalker` (`NodeFilter.SHOW_TEXT`) to match text nodes only, guaranteeing zero corruption of HTML tag attributes or note-taker badges (`.asr-fix-pill`).
+> - It automatically wraps ANY unflagged occurrence of a `VOCAB_DB` word with `<span class="vocab-mark" data-vkey="..." onclick="inspectVocab('...')">`.
+> - This guarantees that 100% of vocabulary words have interactive Tippy.js hover tooltips, audio buttons, and spotlight clicks everywhere they appear!
+
+This provides **three** connected ways to learn:
+1. **Hovering** anywhere the word appears in the transcript opens a **Tippy.js** popover (`theme: 'autumn-sanctuary'`) with IPA, level, timestamp, definition, native-language equivalent, and a `🔊 Listen` button.
 2. **Clicking** in the transcript updates the sticky right-hand **Vocabulary Spotlight** panel (`inspectVocab(key)`) with the full lesson quote and details.
-3. **Clicking the timestamp (`🕒 06:54 ↗`) in Tab 2 (Vocabulary Dictionary)** calls `jumpToTranscriptTurn(turnId, vocabKey)`, which switches to Tab 1, scrolls smoothly to `#turn-20`, updates the Spotlight panel, and triggers a 2.8-second golden highlight pulse (`.turn-highlight-flash`).
+3. **Clicking the timestamp (`🕒 31:57 ↗`) in Tab 2 (Vocabulary Dictionary)** calls `jumpToTranscriptTurn(turnId, vocabKey)`, which switches to Tab 1, scrolls smoothly to the exact turn, updates the Spotlight panel, and triggers a 2.8-second golden highlight pulse (`.turn-highlight-flash`).
+
 
 ### 4. Typography & Restful Colour System
 - **Fonts**:
