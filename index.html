@@ -260,9 +260,16 @@
         <a href="jeopardy.html" class="px-3 py-1.5 rounded-xl bg-autumn-600 hover:bg-autumn-700 text-white text-xs font-bold flex items-center gap-1.5 shadow-sm transition">
           <span>🏆 Play Jeopardy!</span>
         </a>
-        <a href="lesson-01.html" class="px-2.5 py-1.5 rounded-xl bg-white/90 hover:bg-sage-50 border border-[#dfd0b5] text-xs font-semibold text-sage-800 flex items-center gap-1 shadow-sm transition">
-          <span>📜 Lesson 01</span>
+        <a href="transcripts.html" class="px-2.5 py-1.5 rounded-xl bg-sage-700 hover:bg-sage-800 text-white text-xs font-semibold flex items-center gap-1 shadow-sm transition">
+          <span>📚 All Transcripts</span>
         </a>
+        <select aria-label="Choose Lesson" onchange="if(this.value) window.location.href=this.value" class="px-2.5 py-1.5 rounded-xl bg-white/90 hover:bg-sage-50 border border-[#dfd0b5] text-xs font-semibold text-sage-800 shadow-sm cursor-pointer">
+          <option value="">📖 Choose Lesson...</option>
+          <option value="index.html" selected>Lesson 04 • Nov 11 (Notes + Transcript)</option>
+          <option value="transcripts.html?lesson=lesson-03">Lesson 03 • Nov 4 (Transcript)</option>
+          <option value="transcripts.html?lesson=lesson-02">Lesson 02 • Oct 28 (Transcript)</option>
+          <option value="lesson-01.html">Lesson 01 • Oct 21 (Notes + Transcript)</option>
+        </select>
         <div class="flex items-center gap-1.5 bg-white/90 border border-[#dfd0b5] rounded-xl px-2.5 py-1 shadow-sm">
           <button id="soundscape-btn" onclick="toggleSoundscape()" class="flex items-center gap-1.5 text-xs font-semibold text-sage-700 hover:text-sage-900 transition px-1.5 py-0.5 rounded-lg">
             <i data-lucide="wind" class="w-3.5 h-3.5 text-autumn-600"></i>
