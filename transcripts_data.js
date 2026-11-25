@@ -4,9 +4,9 @@ window.WEI_JING_TRANSCRIPTS = [
     "number": "Lesson 01",
     "date": "October 21, 2026",
     "duration": "~50 min",
-    "title": "First Lesson • Introductions, Work & Goals",
-    "studyPage": "lesson-01.html",
-    "studyLabel": "Open Lesson 01 Study Notes",
+    "title": "Loops, Scope Creep, Linux VMs & Crocodile Brain",
+    "studyPage": "index.html?lesson=lesson-01",
+    "studyLabel": "Open Lesson 01 Full Sanctuary Notes",
     "turns": [
       {
         "speaker": "Lewis",
@@ -1329,9 +1329,9 @@ window.WEI_JING_TRANSCRIPTS = [
     "number": "Lesson 02",
     "date": "October 28, 2026",
     "duration": "51.7 min",
-    "title": "Phone Charger Riddle, Grammar & Prepositions",
-    "studyPage": "",
-    "studyLabel": "",
+    "title": "Charger Riddle, Prepositions & British Kitchen Vocab",
+    "studyPage": "index.html?lesson=lesson-02",
+    "studyLabel": "Open Lesson 02 Full Sanctuary Notes",
     "turns": [
       {
         "speaker": "Notes",
@@ -5677,10 +5677,10 @@ window.WEI_JING_TRANSCRIPTS = [
     "id": "lesson-03",
     "number": "Lesson 03",
     "date": "November 4, 2026",
-    "duration": "~50 min (4 parts)",
-    "title": "Buffer Time, Storytelling & Fluency Practice",
-    "studyPage": "",
-    "studyLabel": "",
+    "duration": "~60 min (4 parts)",
+    "title": "Post-Crunch Buffer, Jensen Huang, Martial Arts & IC Tech",
+    "studyPage": "index.html?lesson=lesson-03",
+    "studyLabel": "Open Lesson 03 Full Sanctuary Notes",
     "turns": [
       {
         "speaker": "Notes",
@@ -8684,8 +8684,8 @@ window.WEI_JING_TRANSCRIPTS = [
     "date": "November 11, 2026",
     "duration": "~58 min",
     "title": "Persuasive Pitching, 7 PM VPN & Taiwan HQ Strategy",
-    "studyPage": "index.html",
-    "studyLabel": "Open Lesson 04 Study Notes",
+    "studyPage": "index.html?lesson=lesson-04",
+    "studyLabel": "Open Lesson 04 Full Sanctuary Notes",
     "turns": [
       {
         "speaker": "Notes",
