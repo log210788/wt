@@ -261,11 +261,12 @@
           <span>🏆 Play Jeopardy!</span>
         </a>
         <select id="header-lesson-select" aria-label="Choose Lesson" onchange="selectLesson(this.value)" class="px-3 py-1.5 rounded-xl bg-sage-700 hover:bg-sage-800 text-white text-xs font-semibold shadow-sm cursor-pointer focus:outline-none">
+          <option value="lesson-05">📖 Lesson 05 • Nov 25, 2026 (Latest)</option>
           <option value="lesson-04">📖 Lesson 04 • Nov 11, 2026</option>
           <option value="lesson-03">📖 Lesson 03 • Nov 4, 2026</option>
           <option value="lesson-02">📖 Lesson 02 • Oct 28, 2026</option>
           <option value="lesson-01">📖 Lesson 01 • Oct 21, 2026</option>
-          <option value="all">📚 All 4 Lessons Combined</option>
+          <option value="all">📚 All 5 Lessons Combined</option>
         </select>
         <a href="transcripts.html" class="px-2.5 py-1.5 rounded-xl bg-white/90 hover:bg-sage-50 border border-[#dfd0b5] text-xs font-semibold text-sage-800 flex items-center gap-1 shadow-sm transition" title="Compact raw transcript reader">
           <span>📜 Compact Reader</span>
@@ -313,9 +314,9 @@
           <span class="px-2.5 py-0.5 rounded-full bg-autumn-100 text-autumn-800 font-mono text-[11px] font-bold uppercase tracking-wider">Lesson Library</span>
           <h2 class="font-serif text-lg sm:text-xl font-bold text-slatewarm-900">Choose Any Lesson Transcript &amp; Study Sanctuary</h2>
         </div>
-        <span class="text-xs text-stone-500 font-mono" id="library-summary-pill">4 Complete Lessons • Click any card to switch</span>
+        <span class="text-xs text-stone-500 font-mono" id="library-summary-pill">5 Complete Lessons • Click any card to switch</span>
       </div>
-      <div id="lesson-chooser-cards" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3"></div>
+      <div id="lesson-chooser-cards" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3"></div>
     </section>
 
     <!-- HERO BANNER -->
@@ -643,16 +644,16 @@
 
       return {
         id: "all",
-        shortTitle: "All 4 Lessons Combined (Complete Archive)",
+        shortTitle: "All 5 Lessons Combined (Complete Archive)",
         duration: `${combinedTurns.length} turns`,
         LESSON_CONFIG: {
           studentName: "Wei Jing",
-          lessonNumber: "All 4 Lessons",
-          lessonDate: "Oct 21 – Nov 11, 2026",
+          lessonNumber: "All 5 Lessons",
+          lessonDate: "Oct 21 – Nov 25, 2026",
           lessonSubtitle: "Complete Transcript Archive • Every Vocabulary Word, Note-Taker Fix & Masterclass Together",
           l1FlagAndLabel: "🇨🇳 中文释义:",
-          heroHeadingHtml: `Welcome, Wei Jing — <span class="text-autumn-700 italic font-semibold">All 4 Lessons</span> Complete Sanctuary Archive`,
-          heroIntroText: `Browse, search, and listen across all ${combinedTurns.length} conversation turns and ${Object.keys(combinedVocab).length} B2–C2 vocabulary items from Lesson 01 (Oct 21), Lesson 02 (Oct 28), Lesson 03 (Nov 4), and Lesson 04 (Nov 11) in one unified space—or click any individual lesson card above to focus on a single session.`,
+          heroHeadingHtml: `Welcome, Wei Jing — <span class="text-autumn-700 italic font-semibold">All 5 Lessons</span> Complete Sanctuary Archive`,
+          heroIntroText: `Browse, search, and listen across all ${combinedTurns.length} conversation turns and ${Object.keys(combinedVocab).length} B2–C2 vocabulary items from Lesson 01 (Oct 21), Lesson 02 (Oct 28), Lesson 03 (Nov 4), Lesson 04 (Nov 11), and Lesson 05 (Nov 25) in one unified space—or click any individual lesson card above to focus on a single session.`,
           defaultSpotlightKey: defaultKey
         },
         VOCAB_DB: combinedVocab,
@@ -673,7 +674,7 @@
     LESSON_MAP["all"] = ALL_COMBINED_LESSON;
 
     // Active lesson state bindings used across rendering functions
-    let activeLessonId = "lesson-04";
+    let activeLessonId = "lesson-05";
     let LESSON_CONFIG = {};
     let VOCAB_DB = {};
     let TRANSCRIPT_TURNS = [];
@@ -797,7 +798,7 @@
     }
 
     function selectLesson(lessonId, updateHistory = true) {
-      const target = LESSON_MAP[lessonId] || LESSON_MAP["lesson-04"] || RAW_LESSONS[RAW_LESSONS.length - 1];
+      const target = LESSON_MAP[lessonId] || LESSON_MAP["lesson-05"] || RAW_LESSONS[RAW_LESSONS.length - 1];
       if (!target) return;
 
       activeLessonId = target.id;
@@ -915,20 +916,26 @@
         const plainText = turn.html.replace(/<[^>]+>/g, '').toLowerCase();
         if (searchVal && !plainText.includes(searchVal) && !turn.time.includes(searchVal)) return;
 
-        const isStudent = turn.speaker !== 'Louie';
-        const cardStyle = isStudent
-          ? 'bg-[#fffdf9] border-l-4 border-l-autumn-500 border border-[#e6decb]'
-          : 'bg-[#f8faf8] border-l-4 border-l-sage-600 border border-[#d8e4dc]';
-        const badgeStyle = isStudent
-          ? 'bg-autumn-100 text-autumn-800 border-autumn-200'
-          : 'bg-sage-100 text-sage-800 border-sage-200';
+        const isVideo = turn.speaker === 'Video Clip';
+        const isStudent = turn.speaker !== 'Louie' && !isVideo;
+        const cardStyle = isVideo
+          ? 'bg-parchment-50/95 border-l-4 border-l-stone-400 border border-[#dfd0b5]'
+          : (isStudent
+            ? 'bg-[#fffdf9] border-l-4 border-l-autumn-500 border border-[#e6decb]'
+            : 'bg-[#f8faf8] border-l-4 border-l-sage-600 border border-[#d8e4dc]');
+        const badgeStyle = isVideo
+          ? 'bg-parchment-200 text-stone-700 border-parchment-300'
+          : (isStudent
+            ? 'bg-autumn-100 text-autumn-800 border-autumn-200'
+            : 'bg-sage-100 text-sage-800 border-sage-200');
+        const speakerLabel = isVideo ? '🎬 Monty Hall Video' : (isStudent ? '🎙️ ' + turn.speaker : '🍂 Louie');
 
         html += `
           <article id="${turn.id}" class="rounded-2xl p-4 sm:p-5 ${cardStyle} shadow-sm transition-all duration-300 space-y-2">
             <div class="flex items-center justify-between gap-2">
               <div class="flex items-center gap-2">
                 <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold border ${badgeStyle}">
-                  ${isStudent ? '🎙️ ' + turn.speaker : '🍂 Louie'}
+                  ${speakerLabel}
                 </span>
                 <span class="font-mono text-xs text-stone-500">🕒 ${turn.time}</span>
               </div>
@@ -1377,7 +1384,7 @@
     window.addEventListener('DOMContentLoaded', () => {
       const params = new URLSearchParams(window.location.search);
       const requested = params.get('lesson');
-      const initialLesson = (requested && LESSON_MAP[requested]) ? requested : 'lesson-04';
+      const initialLesson = (requested && LESSON_MAP[requested]) ? requested : 'lesson-05';
       selectLesson(initialLesson, false);
       rebuildLeaves();
       animateLeaves();

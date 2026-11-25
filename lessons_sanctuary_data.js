@@ -1,4 +1,4 @@
-// Auto-generated Unified Multi-Lesson Sanctuary Database for Wei Jing
+// Auto-generated Unified Multi-Lesson Sanctuary Database for Wei Jing (Lessons 01–05)
 window.SANCTUARY_LESSONS = [
   (() => {
     const VOCAB_DB = {
@@ -795,6 +795,7 @@ window.SANCTUARY_LESSONS = [
       return '<span class="asr-fix-pill" title="Note-taker misheard \'' + corrected.replace(/'/g, "\\'") + '\' as \'' + rawMistake.replace(/'/g, "\\'") + '\'"><span class="font-semibold text-emerald-800">Fixed:</span> "' + corrected + '" <span class="text-stone-400">(note-taker wrote: "' + rawMistake + '")</span></span>';
     }
 
+    // -------------------------------------------------------------------------
     const TRANSCRIPT_TURNS = [
       { id: 'turn-1', chapterId: "chap-1", chapterTitle: "Chapter I - Workplace Jargon: Loops, Scope Creep & Blind Spots (07:12 - 14:18)", speaker: 'Louie', time: '07:12', html: `Yay! That's right. It would make it easier. So I'll show you the notes at the end of the lesson, then you'll be like, "Oh, why did he take that extra long pause to make sure it's correct? " But don't worry. Okay, so um. We were looking at. "${v("out-of-the-loop", "out of the loop")}" ${fixBadge("out of the loop", "outs of the loop")} and "${v("in-the-loop", "in the loop")}," okay? It's like the opposite. So I. Imagine you're at work, and you. Working in a team, but the information is not being going around every. Team member, okay? It's not going between your coworkers. Say you're not getting the information, you're ${v("out-of-the-loop", "out of the loop")}. Okay? Yeah? Because the information, like, goes around in a loop. But if you're out of the loop, you're not getting the information. But if you're ${v("in-the-loop", "in the loop")}, you are getting it. Okay? So we can -  you can also say like this. You can also use it like this: "Hey, can you keep me ${v("in-the-loop", "in the loop")}? " Okay? So say you are, like, talking to people from another department, another project, or someone's doing something interesting, or your friends are, like, you know, planning to go -  I don't know -  dancing or something. Can you keep me ${v("in-the-loop", "in the loop")}? Can you -  can you keep me with the information?` },
       { id: 'turn-2', speaker: 'Wei Jing', time: '08:25', html: `Keep me updated.` },
@@ -1531,6 +1532,10 @@ window.SANCTUARY_LESSONS = [
         explain: "Being 'out of the loop' means not being included in circulating information."
       }
     ];
+
+    // -------------------------------------------------------------------------
+    // 8. INTERACTIVE JAVASCRIPT APP ENGINE
+    // -------------------------------------------------------------------------
   const LESSON_CONFIG = {
     studentName: "Wei Jing",
     lessonNumber: "Lesson 01",
@@ -1585,7 +1590,7 @@ window.SANCTUARY_LESSONS = [
     "lessonSubtitle": "The Charger Riddle • 'Crunch Time' • Cozy Unpacking Spatial Prepositions & British Household Vocabulary",
     "l1FlagAndLabel": "🇨🇳 中文释义:",
     "heroHeadingHtml": "Welcome, Wei Jing — <span class=\"text-autumn-700 italic font-semibold\">Lesson 02</span> Sanctuary &amp; Full Transcript",
-    "heroIntroText": "Your complete 51.7-minute transcript from October 28, 2026—designed as a calm, restorative preposition & household vocabulary workout during your busy release week, with funny note-taker mishearings sorted out ('We\\'ll be cute' → 'Rubik\\'s Cube', 'Fok jaws' → 'fork drawer', 'A Plasy' → 'a plushie').",
+    "heroIntroText": "Your complete 51.7-minute transcript from October 28, 2026—a calm spatial-preposition & household vocabulary workout during your busy release week, with funny note-taker mishearings sorted out ('We\\'ll be cute' → 'Rubik\\'s Cube', 'Fok jaws' → 'fork drawer', 'A Plasy' → 'a plushie').",
     "defaultSpotlightKey": "crunch-time"
   },
   "VOCAB_DB": {
@@ -2153,8 +2158,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-35",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-2",
+      "chapterTitle": "Chapter II • Cozy 'Unpacking': Desk, Shelves & Study Prepositions (03:59)",
       "speaker": "Louie",
       "time": "02:56",
       "html": "Yeah..."
@@ -2193,8 +2198,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-40",
-      "chapterId": "chap-2",
-      "chapterTitle": "Chapter II • Cozy 'Unpacking': Desk, Shelves & Study Prepositions (03:59)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Wei Jing",
       "time": "04:06",
       "html": "Unpacking. No, this is the first time."
@@ -2873,8 +2878,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-125",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-3",
+      "chapterTitle": "Chapter III • Wardrobe, Messenger Bag, Flannel Shirts & Living Space (09:32)",
       "speaker": "Louie",
       "time": "08:58",
       "html": "On the middle shelf. Okay... I'll put it here for now. Would you like to know where English children put their diary?"
@@ -2993,8 +2998,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-140",
-      "chapterId": "chap-3",
-      "chapterTitle": "Chapter III • Wardrobe, Messenger Bag, Flannel Shirts & Living Space (09:32)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Wei Jing",
       "time": "09:48",
       "html": "In the closet."
@@ -4793,8 +4798,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-365",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-4",
+      "chapterTitle": "Chapter IV • British Kitchen Culture: Mugs, Cutlery & Chopping Boards (29:43)",
       "speaker": "Louie",
       "time": "25:45",
       "html": "Yeah... Short thing. Okay. So you put your money near your bras, basically. Okay. Interesting, and, just... Sorry, what are these? But tampons, tampons, tampons. Tampons is something else. Tampons is like a name, but it's not only a name, it's like the funniest family movie ever made. So taps a national holiday..."
@@ -5113,8 +5118,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-405",
-      "chapterId": "chap-4",
-      "chapterTitle": "Chapter IV • British Kitchen Culture: Mugs, Cutlery & Chopping Boards (29:43)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Louie",
       "time": "30:40",
       "html": "Okay. Do you know. Do you know what we mean when we call someone a mug? When we say or mug. Have you ever heard the English press that saying, hey, you're a mug? Do you. Do you know what that means when you call someone a mug?"
@@ -6193,8 +6198,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-540",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-5",
+      "chapterTitle": "Chapter V • Final Room Touches: Figurines, Rubik's Cube & Wrap-Up (44:10)",
       "speaker": "Wei Jing",
       "time": "40:19",
       "html": "In the cutlery drawer."
@@ -6713,8 +6718,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-605",
-      "chapterId": "chap-5",
-      "chapterTitle": "Chapter V • Final Room Touches: Figurines, Rubik's Cube & Wrap-Up (44:10)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Louie",
       "time": "44:30",
       "html": "Very good. And where does it go?"
@@ -7670,7 +7675,7 @@ window.SANCTUARY_LESSONS = [
     {
       "time": "10:44",
       "phrase": "\"Who wears flannel shirts? ... My colleague!\"",
-      "note": "Hilarious, deadpan engineering-office wit before learning the North American 'lumberjack' stereotype."
+      "note": "Hilarious deadpan engineering-office wit before learning the North American 'lumberjack' stereotype."
     },
     {
       "time": "31:20",
@@ -7823,7 +7828,7 @@ window.SANCTUARY_LESSONS = [
       "meta": "04:50 – 14:30 | Spatial Fluency",
       "badge": "Grammar in Action",
       "title": "1. The Preposition Matrix: On, Above, Under, In & Up Top",
-      "desc": "English spatial prepositions encode physical contact and geometry: 'on the desk' (touching a horizontal or vertical surface), 'above the bed' (higher without touching), 'in the cutlery drawer' (enclosed), 'under the sink' (beneath), and 'up top' (informal British/US shorthand for the very top of tall cabinets).",
+      "desc": "English spatial prepositions encode physical contact and geometry: 'on the desk' (touching a surface), 'above the bed' (higher without touching), 'in the cutlery drawer' (enclosed), 'under the sink' (beneath), and 'up top' (informal shorthand for the very top of tall cabinets).",
       "quote": "\"Above the bed—not on the bed's right wall—gives instant visual clarity to the listener.\"",
       "tags": [
         "prepositions",
@@ -7925,7 +7930,7 @@ window.SANCTUARY_LESSONS = [
       "options": [
         "Stationary (with -ary)",
         "Stationery (with -ery)",
-        " Stasionery",
+        "Stasionery",
         "Stationry"
       ],
       "correct": 1,
@@ -8101,7 +8106,7 @@ window.SANCTUARY_LESSONS = [
       "pos": "idiom",
       "level": "C1",
       "cat": "idioms",
-      "def": "Famous British motto (used by the UK SAS) meaning bold initiative brings rewards—paired with 'If you don't ask, you don't get.'",
+      "def": "Famous British motto meaning bold initiative brings rewards—paired with 'If you don't ask, you don't get.'",
       "quote": "Louie (09:53): \"Have you heard the English saying 'Who dares wins'—and 'If you don't ask, you don't get'?\"",
       "l1": "勇者胜（敢于开口才有机会）",
       "turnId": "turn-175",
@@ -8257,7 +8262,7 @@ window.SANCTUARY_LESSONS = [
       "pos": "noun",
       "level": "B2",
       "cat": "work",
-      "def": "A smoothed technical indicator showing the average price of an asset over a rolling window (e.g., 50-day or 200-day).",
+      "def": "A smoothed technical indicator showing the average price of an asset over a rolling window.",
       "quote": "Louie (40:15): \"Which moving average do you track?\"",
       "l1": "移动平均线（均线 MA）",
       "turnId": "turn-416",
@@ -9791,8 +9796,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-190",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-3",
+      "chapterTitle": "Chapter III • Mentoring Junior Engineers, Tai Chi & Taekwondo Side Kicks (11:40)",
       "speaker": "Wei Jing",
       "time": "10:25",
       "html": "I think he's doing fine now because at least he asked me questions."
@@ -9831,8 +9836,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-195",
-      "chapterId": "chap-3",
-      "chapterTitle": "Chapter III • Mentoring Junior Engineers, Tai Chi & Taekwondo Side Kicks (11:40)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Louie",
       "time": "11:40",
       "html": "Okay, very good. So let's have a look at a little bit of, how do you feel? I may ask. How do you feel about answering questions?"
@@ -10231,8 +10236,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-245",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-4",
+      "chapterTitle": "Chapter IV • Chemistry-to-Electronics Interview Story, TNT & Cross-Functional Systems (17:30)",
       "speaker": "Louie",
       "time": "17:06",
       "html": "Good day."
@@ -10271,8 +10276,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-250",
-      "chapterId": "chap-4",
-      "chapterTitle": "Chapter IV • Chemistry-to-Electronics Interview Story, TNT & Cross-Functional Systems (17:30)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Wei Jing",
       "time": "17:24",
       "html": "No, I don't want to get the job because my manager, I think he short on people <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'short on people' as 'shot on, people'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"short on people\" <span class=\"text-stone-400\">(note-taker wrote: \"shot on, people\")</span></span>, and he really needs a junior engineer, but I'm not sure. Then before the day before the interview, he sent me the notes that I kind of glance through. I of glanced through the notes. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'glanced through the notes.' as 'glanced through the nurse.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"glanced through the notes.\" <span class=\"text-stone-400\">(note-taker wrote: \"glanced through the nurse.\")</span></span> And tomorrow, I. When I went to the interview. I can't really answer because they asked me. Other than those basic questions. They ask me difficult questions that are not in the notes. I couldn't answer..."
@@ -10991,8 +10996,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-340",
-      "chapterId": "",
-      "chapterTitle": "",
+      "chapterId": "chap-5",
+      "chapterTitle": "Chapter V • Chip Area Simplicity, Candlestick Charts & 'Buying the Dip' (27:30)",
       "speaker": "Wei Jing",
       "time": "30:57",
       "html": "Okay..."
@@ -11071,8 +11076,8 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "id": "turn-350",
-      "chapterId": "chap-5",
-      "chapterTitle": "Chapter V • Chip Area Simplicity, Candlestick Charts & 'Buying the Dip' (27:30)",
+      "chapterId": "",
+      "chapterTitle": "",
       "speaker": "Wei Jing",
       "time": "31:16",
       "html": "Yes..."
@@ -12266,7 +12271,7 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "time": "27:37",
-      "phrase": "\"If I write too many lines of RTL/code, the block consumes a larger silicon area, which means higher cost.\"",
+      "phrase": "\"If I write too many lines of code, the block consumes a larger silicon area, which means higher cost.\"",
       "note": "Crystal-clear executive explanation of hardware design trade-offs (code complexity → die area → manufacturing cost)."
     }
   ],
@@ -12308,7 +12313,7 @@ window.SANCTUARY_LESSONS = [
     },
     {
       "time": "P3 00:06",
-      "topic": "Reverse-Psychology Travel Excitement",
+      "topic": "Natural Travel Anticipation",
       "said": "I will be going on a trip with my family in December to Tokyo.",
       "natural": "I'm heading to Tokyo with my family in early December!",
       "why": "Your sentence is grammatically right—'I'm heading to Tokyo' adds warm, natural conversational energy!"
@@ -12391,7 +12396,7 @@ window.SANCTUARY_LESSONS = [
       "meta": "17:30 – 21:20 | Career Psychology",
       "badge": "Reframing Imposter Syndrome",
       "title": "1. Why Getting Hired Outside Your Degree Proves Interview Strength",
-      "desc": "Landing an electronics engineering role as a pure Chemistry graduate—even without knowing advanced circuit questions yet—isn't luck; it proves interviewers saw sharp analytical thinking, coachability, and high trustworthiness. Teams hire for trajectory and character over memorized syntax.",
+      "desc": "Landing an electronics engineering role as a pure Chemistry graduate—even without knowing advanced circuit questions yet—isn't luck; it proves interviewers saw sharp analytical thinking, coachability, and high trustworthiness.",
       "quote": "\"You weren't even in the same field, yet they still hired you—that means you ARE a genuinely Cross-Functional talent!\"",
       "tags": [
         "cross-functional",
@@ -12404,7 +12409,7 @@ window.SANCTUARY_LESSONS = [
       "meta": "25:15 – 28:05 | Engineering Communication",
       "badge": "Shared Context",
       "title": "2. Hidden Assumptions & Getting 'On the Same Page'",
-      "desc": "Brilliant, introverted 'godlike' architects often suffer from the Curse of Knowledge: sending one-sentence specs while assuming juniors share 10 years of unspoken constraints. Writing overly complex code once exposed those missing assumptions—prompting clearer specs and teaching a golden hardware lesson: simpler logic = smaller silicon die area = lower manufacturing cost.",
+      "desc": "Brilliant, introverted 'godlike' architects often send one-sentence specs while assuming juniors share 10 years of unspoken constraints. Exposing missing assumptions taught a golden hardware lesson: simpler logic = smaller silicon die area = lower wafer cost.",
       "quote": "\"Simpler code keeps the hardware block compact—saving silicon area and wafer cost.\"",
       "tags": [
         "on-the-same-page",
@@ -12417,7 +12422,7 @@ window.SANCTUARY_LESSONS = [
       "meta": "11:40 – 12:55 | Mentorship Etiquette",
       "badge": "Team Culture",
       "title": "3. The 'Tried A, B, and C First' Rule of Good Questions",
-      "desc": "Across global engineering teams, senior engineers love mentoring juniors who show initiative ('I tried X and Y, checked the docs, and hit this specific blocker') versus using seniors as a human search engine. Framing questions around what you already tested builds instant respect.",
+      "desc": "Senior engineers love mentoring juniors who show initiative ('I tried X and Y, checked the docs, and hit this specific blocker') versus using seniors as a human search engine.",
       "quote": "\"If he already tried Method A, Method B, and Method C, I'm genuinely happy to advise.\"",
       "tags": [
         "mentorship",
@@ -12430,7 +12435,7 @@ window.SANCTUARY_LESSONS = [
       "meta": "12:13 – 16:55 | Mind-Body Balance",
       "badge": "Martial Arts",
       "title": "4. From Wushu & Taekwondo Side Kicks to Weekly Tai Chi",
-      "desc": "Having trained across Wushu, Karate, and Taekwondo (prizing the long-reach side kick that simultaneously attacks and parries), transitioning to weekly outdoor Tai Chi (太极拳) offers a calm, meditative counterbalance to intense semiconductor deadlines.",
+      "desc": "Having trained across Wushu, Karate, and Taekwondo (prizing the long-reach side kick that simultaneously attacks and parries), weekly outdoor Tai Chi (太极拳) offers a calm, meditative counterbalance to semiconductor deadlines.",
       "quote": "\"A side kick is offensive and defensive at the same time—you can advance and parry simultaneously.\"",
       "tags": [
         "tai-chi",
@@ -15784,5 +15789,3244 @@ window.SANCTUARY_LESSONS = [
     QUIZ_QUESTIONS,
     REFLECTION_PROMPTS
   };
-})()
+})(),
+  {
+  "id": "lesson-05",
+  "shortTitle": "Tokyo Countdown & High-IQ Trivia Jeopardy",
+  "duration": "50.1 min",
+  "LESSON_CONFIG": {
+    "studentName": "Wei Jing",
+    "lessonNumber": "Lesson 05",
+    "lessonDate": "November 25, 2026",
+    "lessonSubtitle": "Tokyo & Mount Fuji Countdown • Pikachu Plushies • High-IQ Science, Paradoxes & Subtext Jeopardy!",
+    "l1FlagAndLabel": "🇨🇳 中文释义:",
+    "heroHeadingHtml": "Welcome, Wei Jing — <span class=\"text-autumn-700 italic font-semibold\">Lesson 05</span> (Nov 25) Sanctuary &amp; Full Transcript",
+    "heroIntroText": "Here is your complete, tidied 50-minute transcript from tonight's lesson (November 25, 2026)—covering your upcoming Shibuya, Tokyo Disneyland, Pokémon Center & Mount Fuji family trip plus our full Jeopardy showdown (Mercury & Gallium, ASML EUV, Monty Hall 66.7% Paradox, Birthday Paradox, Catch-22, Aqua Regia & Marie Curie)!",
+    "defaultSpotlightKey": "counterintuitive"
+  },
+  "VOCAB_DB": {
+    "wrap-up": {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "pos": "phrasal verb",
+      "level": "B2",
+      "cat": "work",
+      "def": "To bring pending tasks, code bugs, or meetings to a clean, tidy conclusion before heading on leave.",
+      "quote": "Wei Jing (01:25): \"Yeah, I'm really excited—so I need to wrap up my work before next Thursday!\"",
+      "l1": "收尾；圆满完成手头工作",
+      "turnId": "turn-22",
+      "time": "01:25"
+    },
+    "siblings": {
+      "word": "siblings",
+      "ipa": "/ˈsɪb.lɪŋz/",
+      "pos": "noun",
+      "level": "B2",
+      "cat": "life",
+      "def": "Brothers and sisters collectively—much smoother than saying 'my brothers and sisters'.",
+      "quote": "Wei Jing (01:00): \"Yes, I'm going with my parents and my siblings.\"",
+      "l1": "兄弟姐妹",
+      "turnId": "turn-16",
+      "time": "01:00"
+    },
+    "hold-up-well": {
+      "word": "hold up well",
+      "ipa": "/həʊld ʌp wel/",
+      "pos": "idiom",
+      "level": "C1",
+      "cat": "culture",
+      "def": "To remain impressive, watchable, and high-quality even many years after first being released.",
+      "quote": "Louie (05:09): \"The original Harry Potter movies still hold up really well!\"",
+      "l1": "经得起时间考验；依然出色",
+      "turnId": "turn-61",
+      "time": "05:09"
+    },
+    "do-the-honors": {
+      "word": "do the honours",
+      "ipa": "/duː ði ˈɒn.əz/",
+      "pos": "idiom",
+      "level": "C1",
+      "cat": "idioms",
+      "def": "Polite, playful British invitation asking someone to go first, pick the first clue, or pour the tea.",
+      "quote": "Louie (08:20): \"Would you like to do the honours and choose your category and dollar value?\"",
+      "l1": "赏光开个头；有请您先来",
+      "turnId": "turn-75",
+      "time": "06:20"
+    },
+    "eerie": {
+      "word": "eerie",
+      "ipa": "/ˈɪə.ri/",
+      "pos": "adjective",
+      "level": "C1",
+      "cat": "abstract",
+      "def": "Strange, uncanny, and slightly mysterious—like solid gallium metal melting straight in your warm hand.",
+      "quote": "Louie (08:43): \"...which eerie metal sits solid on a lab table yet melts into a puddle in the palm of your hand?\"",
+      "l1": "奇异神秘的；不可思议的",
+      "turnId": "turn-77",
+      "time": "08:43"
+    },
+    "chiral": {
+      "word": "chiral",
+      "ipa": "/ˈkaɪə.rəl/",
+      "pos": "adjective",
+      "level": "C2",
+      "cat": "work",
+      "def": "In chemistry, describing a molecule that cannot be superimposed on its mirror-image twin (like left and right hands).",
+      "quote": "Louie (15:53): \"Because the organic molecule carvone is chiral, its mirror twins smell like spearmint vs caraway!\"",
+      "l1": "手性的（镜像不重合分子）",
+      "turnId": "turn-109",
+      "time": "15:53"
+    },
+    "calamity": {
+      "word": "calamity",
+      "ipa": "/kəˈlæm.ə.ti/",
+      "pos": "noun",
+      "level": "C1",
+      "cat": "abstract",
+      "def": "A chaotic, sudden, or disastrous rush of events (used playfully for Wall Street's Triple Witching hour).",
+      "quote": "Louie (17:20): \"So Triple Witching is a calamity of three derivative contracts expiring at the exact same moment!\"",
+      "l1": "大混乱；灾祸",
+      "turnId": "turn-115",
+      "time": "16:41"
+    },
+    "kick-yourself": {
+      "word": "kick yourself",
+      "ipa": "/kɪk jɔːˈself/",
+      "pos": "idiom",
+      "level": "B2",
+      "cat": "idioms",
+      "def": "To feel playfully annoyed with yourself after missing an answer you actually knew (like Tokyo's old name, Edo!).",
+      "quote": "Louie (18:29): \"Think of old anime—you're going to kick yourself when you see it: Edo!\"",
+      "l1": "拍大腿懊恼（哎呀我其实知道！）",
+      "turnId": "turn-119",
+      "time": "18:29"
+    },
+    "sunk-cost": {
+      "word": "sunk cost",
+      "ipa": "/sʌŋk kɒst/",
+      "pos": "noun",
+      "level": "C1",
+      "cat": "work",
+      "def": "Time, money, or effort already spent that cannot be recovered—often trapping people into continuing bad bets.",
+      "quote": "Louie (20:10): \"Trapping investors into holding losers too long—sunk costs or loss aversion!\"",
+      "l1": "沉没成本",
+      "turnId": "turn-131",
+      "time": "19:53"
+    },
+    "loss-aversion": {
+      "word": "loss aversion",
+      "ipa": "/ˈlɒs əˌvɜː.ʃən/",
+      "pos": "noun",
+      "level": "C1",
+      "cat": "abstract",
+      "def": "Daniel Kahneman's principle that humans feel the pain of losing $1,000 roughly twice as intensely as winning $1,000.",
+      "quote": "Louie (20:30): \"Loss aversion—humans feel psychological losses twice as powerfully as equivalent gains.\"",
+      "l1": "损失厌恶（心理偏差）",
+      "turnId": "turn-131",
+      "time": "19:53"
+    },
+    "survivorship-bias": {
+      "word": "survivorship bias",
+      "ipa": "/səˈvaɪ.və.ʃɪp ˈbaɪ.əs/",
+      "pos": "noun",
+      "level": "C1",
+      "cat": "abstract",
+      "def": "Drawing flawed conclusions by examining only the cases that 'survived' while overlooking silent failures (like WWII bombers).",
+      "quote": "Louie (21:50): \"Abraham Wald and bullet holes on returning planes—survivorship bias!\" Wei Jing: \"Yes!\"",
+      "l1": "幸存者偏差",
+      "turnId": "turn-143",
+      "time": "21:36"
+    },
+    "counterintuitive": {
+      "word": "counterintuitive",
+      "ipa": "/ˌkaʊn.tər.ɪnˈtjuː.ɪ.tɪv/",
+      "pos": "adjective",
+      "level": "C1",
+      "cat": "abstract",
+      "def": "Contrary to what everyday intuition or common sense makes you expect—like switching doors in the Monty Hall Paradox.",
+      "quote": "Video Clip (29:11): \"Even though it seems counterintuitive, switching your door actually doubles your odds to 2/3!\"",
+      "l1": "反直觉的；违背常理直觉的",
+      "turnId": "turn-197",
+      "time": "29:11"
+    },
+    "perplex": {
+      "word": "perplex",
+      "ipa": "/pəˈpleks/",
+      "pos": "verb",
+      "level": "C2",
+      "cat": "emotions",
+      "def": "To baffle, puzzle, or bewilder someone deeply with a tricky logic problem.",
+      "quote": "Video Clip (30:20): \"This paradox has perplexed many people, including scientists and mathematicians.\"",
+      "l1": "使困惑不解；难住",
+      "turnId": "turn-197",
+      "time": "29:11"
+    },
+    "gut-feeling": {
+      "word": "gut feeling",
+      "ipa": "/ɡʌt ˈfiː.lɪŋ/",
+      "pos": "idiom",
+      "level": "B2",
+      "cat": "idioms",
+      "def": "An immediate instinctive intuition felt before doing formal math or analysis.",
+      "quote": "Video Clip (31:15): \"Our gut feeling tells us 50/50—so do you still trust your gut feeling?\"",
+      "l1": "直觉；第一反应",
+      "turnId": "turn-197",
+      "time": "29:11"
+    },
+    "bear-in-mind": {
+      "word": "bear in mind",
+      "ipa": "/beər ɪn maɪnd/",
+      "pos": "idiom",
+      "level": "B2",
+      "cat": "idioms",
+      "def": "To remember and factor in a key piece of context when making a decision.",
+      "quote": "Louie (32:25): \"Because the host knowingly reveals a losing door, your odds shift—bear that in mind!\"",
+      "l1": "牢记在心；考虑到",
+      "turnId": "turn-204",
+      "time": "32:25"
+    },
+    "spotless": {
+      "word": "spotless",
+      "ipa": "/ˈspɒt.ləs/",
+      "pos": "adjective",
+      "level": "B2",
+      "cat": "life",
+      "def": "Completely clean and immaculate without a single piece of litter—like Shibuya's streets despite having almost no bins.",
+      "quote": "Louie (33:49): \"Why did Tokyo remove public street bins in 1995, even though the city remains spotless?\"",
+      "l1": "一尘不染的；极其整洁的",
+      "turnId": "turn-208",
+      "time": "33:49"
+    },
+    "catch-22": {
+      "word": "Catch-22",
+      "ipa": "/ˌkætʃ twen.ti ˈtuː/",
+      "pos": "noun",
+      "level": "C1",
+      "cat": "idioms",
+      "def": "A paradoxical no-win trap where the very condition needed to escape a problem is blocked by the rule itself.",
+      "quote": "Louie (38:00): \"Needing experience to get hired, yet needing to get hired to gain experience—a classic Catch-22!\"",
+      "l1": "第22条军规（左右死循环困境）",
+      "turnId": "turn-230",
+      "time": "37:45"
+    },
+    "density": {
+      "word": "density",
+      "ipa": "/ˈden.sə.ti/",
+      "pos": "noun",
+      "level": "B2",
+      "cat": "work",
+      "def": "Mass per unit volume—helium's much lower density lets sound waves travel nearly 3× faster through the vocal tract.",
+      "quote": "Wei Jing (40:49): \"Why does helium float to space? Because it has a lower density!\"",
+      "l1": "密度",
+      "turnId": "turn-249",
+      "time": "40:49"
+    },
+    "drown-out": {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "pos": "phrasal verb",
+      "level": "B2",
+      "cat": "idioms",
+      "def": "To overwhelm and cover up quieter sounds or normal conversation with loud noise.",
+      "quote": "Louie (42:23): \"In Monty Python's café sketch, Vikings drown out every conversation by singing 'Spam!' nonstop.\"",
+      "l1": "（用更大声音）淹没、盖过",
+      "turnId": "turn-262",
+      "time": "42:23"
+    },
+    "white-elephant": {
+      "word": "white elephant",
+      "ipa": "/ˌwaɪt ˈel.ɪ.fənt/",
+      "pos": "idiom",
+      "level": "C1",
+      "cat": "idioms",
+      "def": "An expensive, prestigious-looking project or possession that costs a fortune to maintain yet serves no practical use.",
+      "quote": "Louie (44:23): \"Calling a costly, useless project a 'white elephant' comes from ancient Kings of Siam!\"",
+      "l1": "白象工程（昂贵却无用的累赘）",
+      "turnId": "turn-274",
+      "time": "44:23"
+    },
+    "pamper": {
+      "word": "pamper",
+      "ipa": "/ˈpæm.pər/",
+      "pos": "verb",
+      "level": "C1",
+      "cat": "life",
+      "def": "To spoil, indulge, and care for someone or something with luxurious attention.",
+      "quote": "Louie (44:58): \"Sacred white elephants couldn't be put to work, yet cost a fortune to feed and pamper!\"",
+      "l1": "娇惯；精心伺候宠爱",
+      "turnId": "turn-278",
+      "time": "44:58"
+    },
+    "wager": {
+      "word": "wager",
+      "ipa": "/ˈweɪ.dʒər/",
+      "pos": "verb",
+      "level": "C1",
+      "cat": "life",
+      "def": "To bet or stake a chosen amount of points or money on the final round's outcome.",
+      "quote": "Louie (45:55): \"Final Jeopardy—how much would you like to wager?\"",
+      "l1": "下注；押注",
+      "turnId": "turn-278",
+      "time": "44:58"
+    },
+    "live-up-to": {
+      "word": "live up to",
+      "ipa": "/lɪv ˈʌp tuː/",
+      "pos": "phrasal verb",
+      "level": "B2",
+      "cat": "idioms",
+      "def": "To fulfill a promise, reputation, or expectation in practice.",
+      "quote": "Louie (48:25): \"I told the Vietnamese crab soup lady I'd come every day—and for two weeks I've been trying to live up to it!\"",
+      "l1": "兑现（承诺）；不辜负",
+      "turnId": "turn-308",
+      "time": "48:18"
+    },
+    "applicable": {
+      "word": "applicable",
+      "ipa": "/əˈplɪk.ə.bəl/",
+      "pos": "adjective",
+      "level": "C1",
+      "cat": "work",
+      "def": "Relevant, valid, or appropriate to apply in a particular situation.",
+      "quote": "Wei Jing (49:06): \"Will I still be getting the transcript, or is it not applicable for this game lesson?\"",
+      "l1": "适用的",
+      "turnId": "turn-321",
+      "time": "49:09"
+    }
+  },
+  "TRANSCRIPT_TURNS": [
+    {
+      "id": "turn-1",
+      "chapterId": "chap-1",
+      "chapterTitle": "Chapter I • Feature Bug-Fixing, Next Thursday's Tokyo & Mount Fuji Trip, Pikachu Plushies & Harry Potter (00:00)",
+      "speaker": "Louie",
+      "time": "00:00",
+      "html": "Sorry I'm late. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Sorry I\\'m late.' as 'I was sorry I\\'m lame.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Sorry I'm late.\" <span class=\"text-stone-400\">(note-taker wrote: \"I was sorry I'm lame.\")</span></span>"
+    },
+    {
+      "id": "turn-2",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:01",
+      "html": "Hi. So it's okay?"
+    },
+    {
+      "id": "turn-3",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:03",
+      "html": "How are you today? How are you doing?"
+    },
+    {
+      "id": "turn-4",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:05",
+      "html": "Yeah, I'm doing well, thank you."
+    },
+    {
+      "id": "turn-5",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:07",
+      "html": "Good and how is work...?"
+    },
+    {
+      "id": "turn-6",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:10",
+      "html": "Work is especially busy this week."
+    },
+    {
+      "id": "turn-7",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:15",
+      "html": "What is your schedule like at work? What's your schedule of work like at work at the moment?"
+    },
+    {
+      "id": "turn-8",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:23",
+      "html": "Right now I am working on implementing a new feature, so there are a few bugs here and there."
+    },
+    {
+      "id": "turn-9",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:33",
+      "html": "Okay. Very good. Very good. And. Have you had much time for yourself?"
+    },
+    {
+      "id": "turn-10",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:40",
+      "html": "Not really..."
+    },
+    {
+      "id": "turn-11",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:41",
+      "html": "No, and will you be breaking up for Christmas soon?"
+    },
+    {
+      "id": "turn-12",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:47",
+      "html": "Christmas... Not really, but I will go to Japan next Thursday, yeah."
+    },
+    {
+      "id": "turn-13",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:56",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-14",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "00:57",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-15",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "00:57",
+      "html": "With your family, is that correct?"
+    },
+    {
+      "id": "turn-16",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:00",
+      "html": "Yes. I go with my parents and my siblings."
+    },
+    {
+      "id": "turn-17",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:04",
+      "html": "Okay. Yes, you'll go with your siblings... So I can't remember what you're doing, are you? You're not just going to Tokyo, are you? You're going somewhere else as well..."
+    },
+    {
+      "id": "turn-18",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:16",
+      "html": "No, I'm just going to I'm going to Tokyo and Mount Fuji."
+    },
+    {
+      "id": "turn-19",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:21",
+      "html": "And Mount Fuji. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'And Mount Fuji.' as 'Andm Puji.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"And Mount Fuji.\" <span class=\"text-stone-400\">(note-taker wrote: \"Andm Puji.\")</span></span> Okay..."
+    },
+    {
+      "id": "turn-20",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:23",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-21",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:23",
+      "html": "Very nice. Are you excited?"
+    },
+    {
+      "id": "turn-22",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:25",
+      "html": "Yeah, I'm really excited. So I need to wrap up my work before next Thursday."
+    },
+    {
+      "id": "turn-23",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:32",
+      "html": "We'll go now. No, I'm joking."
+    },
+    {
+      "id": "turn-24",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:34",
+      "html": "No [Laughter] way."
+    },
+    {
+      "id": "turn-25",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:37",
+      "html": "And what what's on your to do list for Japan?"
+    },
+    {
+      "id": "turn-26",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:45",
+      "html": "Shopping. The first on the list is shopping there. Disneyland and visiting the Pokemon Center."
+    },
+    {
+      "id": "turn-27",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:58",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-28",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:58",
+      "html": "Yeah, to..."
+    },
+    {
+      "id": "turn-29",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "01:59",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-30",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "01:59",
+      "html": "Buy a few Pikachu plushies and, yup, and to visit Akihabara. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Buy a few Pikachu plushies and, yup, and to visit Akihabara.' as 'Buy a few Pica Chees and, yup, and to visit Akihabaa.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Buy a few Pikachu plushies and, yup, and to visit Akihabara.\" <span class=\"text-stone-400\">(note-taker wrote: \"Buy a few Pica Chees and, yup, and to visit Akihabaa.\")</span></span>"
+    },
+    {
+      "id": "turn-31",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:07",
+      "html": "Love the Pikachu... <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Love the Pikachu...' as 'Love the Piccatu...'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Love the Pikachu...\" <span class=\"text-stone-400\">(note-taker wrote: \"Love the Piccatu...\")</span></span>"
+    },
+    {
+      "id": "turn-32",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "02:07",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-33",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:10",
+      "html": "Plushes, they're so good. What else is on your shopping list? Do you have any technology you want to pick up or...?"
+    },
+    {
+      "id": "turn-34",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "02:19",
+      "html": "I want to get myself an umbrella."
+    },
+    {
+      "id": "turn-35",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:21",
+      "html": "[Laughter] Yes. I laugh because today is the only thing I had to get today was an umbrella. I didn't get it."
+    },
+    {
+      "id": "turn-36",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "02:35",
+      "html": "[Laughter] I see."
+    },
+    {
+      "id": "turn-37",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:37",
+      "html": "I was looking at them in the shop, so I was like, \"Yeah, okay, fair enough.\" So are you going to Disneyland with your whole family?"
+    },
+    {
+      "id": "turn-38",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "02:48",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-39",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:49",
+      "html": "Very nice. Have you been before?"
+    },
+    {
+      "id": "turn-40",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "02:52",
+      "html": "To Tokyo Disneyland. No, this is the first time."
+    },
+    {
+      "id": "turn-41",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "02:57",
+      "html": "Okay, it's very nice. Are you staying near Disneyland?"
+    },
+    {
+      "id": "turn-42",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "03:01",
+      "html": "Not really, I'm staying in Shibuya <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Shibuya' as 'Shabuya'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Shibuya\" <span class=\"text-stone-400\">(note-taker wrote: \"Shabuya\")</span></span>. It will be quite a distance. Quite a distance to Disneyland. But it should be fine. Yeah..."
+    },
+    {
+      "id": "turn-43",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "03:12",
+      "html": "Normally I stay near Disneyland. When I go, I stay near Disneyland."
+    },
+    {
+      "id": "turn-44",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "03:16",
+      "html": "I see."
+    },
+    {
+      "id": "turn-45",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "03:17",
+      "html": "Yeah wow Shibuya <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Shibuya' as 'Shabuya'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Shibuya\" <span class=\"text-stone-400\">(note-taker wrote: \"Shabuya\")</span></span> wow interesting. And do you have friends in Tokyo maybe this time?"
+    },
+    {
+      "id": "turn-46",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "03:31",
+      "html": "I don't think I will be interacting much with other people other than my family members."
+    },
+    {
+      "id": "turn-47",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "03:38",
+      "html": "Okay, fair enough. How about your other family members? Will you be spending the whole time with them? In that case..."
+    },
+    {
+      "id": "turn-48",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "03:48",
+      "html": "Most of the time we will be together. Other than that, there is one day when my brother wanted to visit an exhibition related to Harry Potter. Yeah, but I decided to go shopping instead, so we will be on our way."
+    },
+    {
+      "id": "turn-49",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "04:08",
+      "html": "And are you watching the new Harry Potter show?"
+    },
+    {
+      "id": "turn-50",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "04:12",
+      "html": "Not yet. Is it good?"
+    },
+    {
+      "id": "turn-51",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "04:14",
+      "html": "Neither... I haven't heard anything yet, so I don't know. I just discovered it's out now. I believe it's... Starts to come out..."
+    },
+    {
+      "id": "turn-52",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "04:24",
+      "html": "Yup."
+    },
+    {
+      "id": "turn-53",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "04:24",
+      "html": "Now, so I will probably watch an episode tonight later this evening. Yes, and..."
+    },
+    {
+      "id": "turn-54",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "04:30",
+      "html": "I see. It is a drama, right? A..."
+    },
+    {
+      "id": "turn-55",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "04:32",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-56",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "04:33",
+      "html": "TV drama, TV..."
+    },
+    {
+      "id": "turn-57",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "04:34",
+      "html": "It's a TV series. Yes. I think the budget is obviously better for the movie, right? So it's a bit unusual. Well, I understand why they made it. What do you think they made the show for besides to make money?"
+    },
+    {
+      "id": "turn-58",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "04:56",
+      "html": "Because the Harry Potter movie is quite old, so they want to... They want to have a remake..."
+    },
+    {
+      "id": "turn-59",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "05:06",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-60",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:06",
+      "html": "To get a new audience."
+    },
+    {
+      "id": "turn-61",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "05:09",
+      "html": "Yeah, I th I think so. And, but the old movie holds up well. It holds up well..."
+    },
+    {
+      "id": "turn-62",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:15",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-63",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "05:17",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-64",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:18",
+      "html": "They are really good."
+    },
+    {
+      "id": "turn-65",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "05:19",
+      "html": "Wow, I'm surprised they have a well, not really surprised, but they have a Harry Potter exhibition, an expo. So I have a question. Before we get into the subject of today, I have a question. Has your work been very crazy because of the NVIDIA CEO?"
+    },
+    {
+      "id": "turn-66",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:42",
+      "html": "Not really."
+    },
+    {
+      "id": "turn-67",
+      "chapterId": "chap-2",
+      "chapterTitle": "Chapter II • Jeopardy Kickoff: Mercury & Gallium, South Sea Bubble, Debugging Moth & Osaka Escalators (06:20)",
+      "speaker": "Louie",
+      "time": "05:45",
+      "html": "What do it mean, crazy? I mean, people in your company... Have they been like, \"This is crazy?\""
+    },
+    {
+      "id": "turn-68",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:51",
+      "html": "Yeah. They have been talking about it..."
+    },
+    {
+      "id": "turn-69",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "05:54",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-70",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "05:54",
+      "html": "About how the stock price crashes and eventually it recovers."
+    },
+    {
+      "id": "turn-71",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "06:01",
+      "html": "Very interesting, then he came back..."
+    },
+    {
+      "id": "turn-72",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "06:03",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-73",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "06:04",
+      "html": "Very interesting. Wow, yeah, interesting. And, anything else you've been up to at all, anything else, just working, getting ready, yeah..."
+    },
+    {
+      "id": "turn-74",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "06:17",
+      "html": "Yeah. Getting ready. Packing my stuff. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Packing my stuff.' as 'Pa. My staff.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Packing my stuff.\" <span class=\"text-stone-400\">(note-taker wrote: \"Pa. My staff.\")</span></span>"
+    },
+    {
+      "id": "turn-75",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "06:20",
+      "html": "Okay, very good. Okay. Let me just load up the lesson here to do. Okay, good. Share it here we go. So have you...? Do you know this show at all? Have you ever played Jeopardy? No. Okay, so this is a language exercise. The way it works is we have categories: Chemistry and Weird Science, Silicon Logic and Paradoxes Hit in Japan, Martial Arts Markets, Quants of Bubbles, Western Blind Spots, and Subtexts. Okay. As you see, each of these tabs is a question behind it. As it increases in price, it increases in difficulty. Okay, we'll be playing against each other, and you have a few options. You get to select the category and how much... If you get the answer right, you get awarded the points. If you get it wrong, you get minus the points. Okay? You can pass, but it gets passed to me and vice versa if I do it to you. Okay, anything else? There are two other things. There at the end, there is final Jeopardy. Okay, so there's a final question that we both share. You can bet how much you want out of your points to play just in case you're behind. There's a bonus somewhere. But hidden behind one of these, there's a bonus. It doubles your points. But you can choose who plays. Okay, so would you like to do the honors and choose your subjects and how much, please?"
+    },
+    {
+      "id": "turn-76",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "08:34",
+      "html": "I will pick. Chemistry and Weird Science. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Chemistry and Weird Science.' as 'Chemistry and environmental science.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Chemistry and Weird Science.\" <span class=\"text-stone-400\">(note-taker wrote: \"Chemistry and environmental science.\")</span></span> Let's try $100."
+    },
+    {
+      "id": "turn-77",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "08:43",
+      "html": "Sorry, so let me turn off the music. Sorry, I voice... Forget, here we get. Okay, here's your question. Which silver metal is liquid at room temperature, and which eerie metal sits solid on a lab table <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'lab table' as 'lamp table'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"lab table\" <span class=\"text-stone-400\">(note-taker wrote: \"lamp table\")</span></span> yet melts into a puddle right in the palm of your hand?"
+    },
+    {
+      "id": "turn-78",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "09:10",
+      "html": "I only know Mercury, atomic number 31."
+    },
+    {
+      "id": "turn-79",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "09:22",
+      "html": "This is it."
+    },
+    {
+      "id": "turn-80",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "09:25",
+      "html": "No, I have no idea. I have no idea."
+    },
+    {
+      "id": "turn-81",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "09:33",
+      "html": "Yeah, Mercury. Yeah, I think this is a gallium. Gallium..."
+    },
+    {
+      "id": "turn-82",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "09:36",
+      "html": "Yeah, there are two. Yeah."
+    },
+    {
+      "id": "turn-83",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "09:38",
+      "html": "Yeah, and gallium, okay, no problem, so it said $100, so... Here we go, good, now it's my go, so I'll go for markets and quanta and bubbles. $100. Brilliant business... Isaac Newton. Lost £20,000 or millions today. Fear of missing out, buying back into soaring 1720s British stock right before it crashed. Crashed. Let me... I can calculate the motions of heavenly bodies but not the madness of people which bubble burned Newton. Okay, I see. So which industry collapsed or did not collapse? Industry burst, I guess... What do I guess it is? I don't know steel, no, not steel printing, let's say if printing or something, what do you think it is? Which industry do you think busted?"
+    },
+    {
+      "id": "turn-84",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "10:55",
+      "html": "I think there is a stop that crashed."
+    },
+    {
+      "id": "turn-85",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "11:05",
+      "html": "It's a specific st..."
+    },
+    {
+      "id": "turn-86",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "11:08",
+      "html": "I think I've heard it before, but I can't remember the name. Not sure."
+    },
+    {
+      "id": "turn-87",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "11:21",
+      "html": "Sea bubble, the South Sea... Company, have you ever heard of that?"
+    },
+    {
+      "id": "turn-88",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "11:26",
+      "html": "I'm not sure I..."
+    },
+    {
+      "id": "turn-89",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "11:29",
+      "html": "I've never had that. I'm..."
+    },
+    {
+      "id": "turn-90",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "11:30",
+      "html": "Forgot South Sea..."
+    },
+    {
+      "id": "turn-91",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "11:31",
+      "html": "Gonna escape, but I lost 100. Okay, and sure, which one would you like?"
+    },
+    {
+      "id": "turn-92",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "11:45",
+      "html": "Silicon Logic and Paradoxes."
+    },
+    {
+      "id": "turn-93",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "11:48",
+      "html": "One another thing in 1947 engineers troubleshooting the Harvard Mark II computer <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Harvard Mark II computer' as 'Harvard Miro 2 computer'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Harvard Mark II computer\" <span class=\"text-stone-400\">(note-taker wrote: \"Harvard Miro 2 computer\")</span></span> who... This is quite difficult. Taps a real dead insect into the lab logbook. Okay, popularizing the term debugging <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'popularizing the term debugging' as 'polarizing the term debugging'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"popularizing the term debugging\" <span class=\"text-stone-400\">(note-taker wrote: \"polarizing the term debugging\")</span></span>, which insect was stuck into relay number 70? Okay, cockroach? Yeah, okay, a moth! <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'cockroach? Yeah, okay, a moth!' as 'cockroach, yeah, okay, a month.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"cockroach? Yeah, okay, a moth!\" <span class=\"text-stone-400\">(note-taker wrote: \"cockroach, yeah, okay, a month.\")</span></span> I do that one, but I won't go this next one. I will go for Western blind spot and subtext. Where did the English idiom spill the beans meaning to accent leak confidential news supposedly or supposedly originated in ancient Greece? Where did the English even...? I don't know, maybe in Athens, right? I think that's a good guess. Secret ballot jars. Ancient Greeks voted by dropping white or dark beans into a clay urn, knocking the jar over, literally spilling the beans and expose the vote. Okay..."
+    },
+    {
+      "id": "turn-94",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "13:17",
+      "html": "Okay..."
+    },
+    {
+      "id": "turn-95",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "13:18",
+      "html": "That's where it comes from. Interesting, but not... No one good enough. Okay, here we go. Which one would you like?"
+    },
+    {
+      "id": "turn-96",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "13:25",
+      "html": "I'll get okay. Hidden Japan and Martial Arts. Hundred dollar hundred hundred."
+    },
+    {
+      "id": "turn-97",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "13:35",
+      "html": "In Tokyo, commuters stand neatly on the left side of escalators. Yeah, if you ride the bullet train two and a half hours west to Osaka, everyone stands on the right. Which global mega event in the 1970s caused Osaka to flip sides? <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'caused Osaka to flip sides?' as 'caused a sucker to flip sides?'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"caused Osaka to flip sides?\" <span class=\"text-stone-400\">(note-taker wrote: \"caused a sucker to flip sides?\")</span></span> Wow, I think I have to make this up. Look, the 1970s Osaka World Expo! Wow. Osaka adopted <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Osaka World Expo! Wow. Osaka adopted' as 'Sucker World Expo. Wow. A Sucker adopted'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Osaka World Expo! Wow. Osaka adopted\" <span class=\"text-stone-400\">(note-taker wrote: \"Sucker World Expo. Wow. A Sucker adopted\")</span></span> Western right-side standing for millions of international visitors. How nice of them and never..."
+    },
+    {
+      "id": "turn-98",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "14:14",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-99",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "14:14",
+      "html": "Switched back. Okay, I did make this challenging because I think you know, to learn new things and to think..."
+    },
+    {
+      "id": "turn-100",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "14:25",
+      "html": "Sure."
+    },
+    {
+      "id": "turn-101",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "14:25",
+      "html": "Cool. Okay, I'm going to go for hidden gems. Japan. $300 in martial biochemics. Taekwondo side kick or spinning hook kick <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Taekwondo side kick or spinning hook kick' as 'TikTok, dose, kick, spitting hook kick'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Taekwondo side kick or spinning hook kick\" <span class=\"text-stone-400\">(note-taker wrote: \"TikTok, dose, kick, spitting hook kick\")</span></span> delivers three to four times the force of a punch, and fighters let out a sharp shout. Kihap at the millisecond of impact. Physiologically <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Kihap at the millisecond of impact. Physiologically' as 'Key up and secular impacts. Psychologically'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Kihap at the millisecond of impact. Physiologically\" <span class=\"text-stone-400\">(note-taker wrote: \"Key up and secular impacts. Psychologically\")</span></span>, what does this sharp exhale do? Psychologically, well, it does two things. Obviously, it shocks your opponent, right? Catches them on rhythm. But it helps to empty up the air in your body, because if you punch and they punch and you have wind, we say wind, then you'll go... Sorry, that was grotesque. The air will fall out of you. Sure, just to scare it. There we go. Yeah, it bends contracts the diaphragm and core wall, locking the torso rigid but maximum kinetic force and shielding internal organs against impact. I think that was okay. I think I got that right. Yeah."
+    },
+    {
+      "id": "turn-102",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "15:32",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-103",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "15:33",
+      "html": "Okay, which one would you like?"
+    },
+    {
+      "id": "turn-104",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "15:36",
+      "html": "Just now I picked the $100, right? But it doesn't..."
+    },
+    {
+      "id": "turn-105",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "15:41",
+      "html": "Sorry, there we go, it's not well coded, it's vibe-coded completely <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'vibe-coded completely' as 'five-coded completely'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"vibe-coded completely\" <span class=\"text-stone-400\">(note-taker wrote: \"five-coded completely\")</span></span>, as you could tell."
+    },
+    {
+      "id": "turn-106",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "15:48",
+      "html": "Okay, I..."
+    },
+    {
+      "id": "turn-107",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "15:48",
+      "html": "Okay..."
+    },
+    {
+      "id": "turn-108",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "15:48",
+      "html": "I'll pick the chemistry one, $200."
+    },
+    {
+      "id": "turn-109",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "15:53",
+      "html": "$200. Because the organic molecule carvone is chiral <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'molecule carvone is chiral' as 'molecule carbon is chiral'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"molecule carvone is chiral\" <span class=\"text-stone-400\">(note-taker wrote: \"molecule carbon is chiral\")</span></span>, right? Non-super..."
+    },
+    {
+      "id": "turn-110",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "16:01",
+      "html": "My God..."
+    },
+    {
+      "id": "turn-111",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "16:01",
+      "html": "Imposed, less than right-handed... Human scent and reception smell. It's two mirror twins as to be completely different foods, I think I know the answer to this one name at least one of the two sets. I think you can guess one of them. Are you sure?"
+    },
+    {
+      "id": "turn-112",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "16:26",
+      "html": "I have no idea. Yeah, sure, I have no idea."
+    },
+    {
+      "id": "turn-113",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "16:30",
+      "html": "I think mint is one. I think mint... Yeah. Here we go. Spearmint... <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Spearmint...' as 'Spearman...'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Spearmint...\" <span class=\"text-stone-400\">(note-taker wrote: \"Spearman...\")</span></span>"
+    },
+    {
+      "id": "turn-114",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "16:38",
+      "html": "I see."
+    },
+    {
+      "id": "turn-115",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "16:41",
+      "html": "I don't know how I know this. Probably YouTube... Okay, I will go for markets in quants. 200 on Wall Street. Why is the third Friday of March, June, September, and December named? Nicknamed Triple Witching famous for... Final hour trading sparks... Wof. Interesting, but why do I think this is? Maybe it's quarterly figures released quarterly figures of the economy. I have a look. Three major derivative contracts expire at the exact same moment stock options. Okay, so it's just a calamity of expiring contracts and stuff. Okay, so not that long, interesting. Okay, which one would you like?"
+    },
+    {
+      "id": "turn-116",
+      "chapterId": "chap-3",
+      "chapterTitle": "Chapter III • Chiral Carvone, ASML 2nm EUV, Buckyballs (C60), Survivorship Bias & Red Auroras (15:48)",
+      "speaker": "Wei Jing",
+      "time": "17:42",
+      "html": "Hidden Japan Martial Arts. 200 dollar."
+    },
+    {
+      "id": "turn-117",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "17:45",
+      "html": "200, here we go. Tokyo was originally a castle town under a completely different three-letter name until 868. Which Emperor moved the capital from Kyoto and renamed its eastern capital? What was Tokyo's old name? I know it is... I remember it for sure. Think of old movies, old... No, that's like six letters or something... Think of it... You... I in old anime or in TV shows. I think you're..."
+    },
+    {
+      "id": "turn-118",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:29",
+      "html": "No..."
+    },
+    {
+      "id": "turn-119",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:29",
+      "html": "Gonna kick yourself. Think you sure you gave up?"
+    },
+    {
+      "id": "turn-120",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:35",
+      "html": "Well, yeah, I gave up."
+    },
+    {
+      "id": "turn-121",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:36",
+      "html": "You remember you can pass it to me. You're like..."
+    },
+    {
+      "id": "turn-122",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:40",
+      "html": "Yeah, we just pass..."
+    },
+    {
+      "id": "turn-123",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:41",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-124",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:42",
+      "html": "It to you."
+    },
+    {
+      "id": "turn-125",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:43",
+      "html": "Do Edo Eddo Japan yeah, edo..."
+    },
+    {
+      "id": "turn-126",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:49",
+      "html": "Okay, I do..."
+    },
+    {
+      "id": "turn-127",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:49",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-128",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "18:51",
+      "html": "Okay."
+    },
+    {
+      "id": "turn-129",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "18:53",
+      "html": "I was like, \"What could it be?\" As course of course. Okay, so when I go now, I'll go for Marcus and Quants again. Which Cold War NSA codebreaker and geometer founded Renaissance Technologies, whose secretive medallion fund averaged 66% annual AU before fees for 30 straight years outperforming Buffett stories? No idea. What a crazy question. Here we go. Jim Simons... No, I don't know. Okay, anyway, yeah, you got which one would you like? Okay, we will go to print modern 2 nanometer and 3 nanometer microchips. Only one Dutch company on Earth builds the 350 million extreme ultraviolet. Yeah."
+    },
+    {
+      "id": "turn-130",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "19:51",
+      "html": "It is ASML! <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'It is ASML!' as 'It is a mi.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"It is ASML!\" <span class=\"text-stone-400\">(note-taker wrote: \"It is a mi.\")</span></span>"
+    },
+    {
+      "id": "turn-131",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "19:53",
+      "html": "Co... Nice... Okay, Mia, I'll go... NTZ as well. Nobel laureate Daniel... Or approved. Humans feel the psychological pain of losing $1000 roughly twice as powerful as the pleasure of winning $1,000, trapping investors into holding losses too long. What is this bias called? Sunken costs? Sunken costs. I think that... No loss aversion. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'loss aversion.' as 'loss of a version.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"loss aversion.\" <span class=\"text-stone-400\">(note-taker wrote: \"loss of a version.\")</span></span> Okay, very good. Okay, which one would you like?"
+    },
+    {
+      "id": "turn-132",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "20:45",
+      "html": "Chemistry. 300 do 300 dollars."
+    },
+    {
+      "id": "turn-133",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "20:48",
+      "html": "Chemistry, $300."
+    },
+    {
+      "id": "turn-134",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "20:51",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-135",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "20:51",
+      "html": "Everyone knows diamond and graphite are pure carbon, but in 1985, a chemist won a Nobel Prize for Discovery. C60. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'C60.' as 'Sea 60.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"C60.\" <span class=\"text-stone-400\">(note-taker wrote: \"Sea 60.\")</span></span> A hollow cage of 60 carbon atoms shaped exactly like a classic football. What is it called? No, I did..."
+    },
+    {
+      "id": "turn-136",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "21:14",
+      "html": "No idea. Do you know...?"
+    },
+    {
+      "id": "turn-137",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "21:20",
+      "html": "Would you like to pass it to me? I can guess..."
+    },
+    {
+      "id": "turn-138",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "21:22",
+      "html": "I'll pass it to you, I'll pass it to you."
+    },
+    {
+      "id": "turn-139",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "21:24",
+      "html": "Carbon fiber."
+    },
+    {
+      "id": "turn-140",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "21:32",
+      "html": "My God. The name..."
+    },
+    {
+      "id": "turn-141",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "21:36",
+      "html": "No..."
+    },
+    {
+      "id": "turn-142",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "21:36",
+      "html": "Intern the..."
+    },
+    {
+      "id": "turn-143",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "21:36",
+      "html": "Okay, it's your good, which, no by good, my good. Okay, I'll take this one. This during World War two, statistician Abraham Wald <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Abraham Wald' as 'Abraham War'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Abraham Wald\" <span class=\"text-stone-400\">(note-taker wrote: \"Abraham War\")</span></span> studied bullet holes on return. I think I know the answer for this. Yeah, it's survivor bias, right?"
+    },
+    {
+      "id": "turn-144",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "21:57",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-145",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "22:00",
+      "html": "So, is it okay? Yeah, survivor bias, yeah, and you're going to... Which one would you like?"
+    },
+    {
+      "id": "turn-146",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "22:15",
+      "html": "I will. Pi, Japan, 500 dollar..."
+    },
+    {
+      "id": "turn-147",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "22:20",
+      "html": "$500? Green aurora borealis curtains come from solar particles striking oxygen 100 to 200,000 kilometers up during extreme geomagnetic storms. What creates the ultra-rare blood red tops and electric violet lower fringes?"
+    },
+    {
+      "id": "turn-148",
+      "chapterId": "chap-4",
+      "chapterTitle": "Chapter IV • The Monty Hall Paradox (66.7% Switch!), British 'Very Brave' Subtext & Birthday Paradox (23:35)",
+      "speaker": "Wei Jing",
+      "time": "22:53",
+      "html": "Electro magnetic wave..."
+    },
+    {
+      "id": "turn-149",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "22:56",
+      "html": "Yeah, I would guess that as well. High altitude atomic oxygen."
+    },
+    {
+      "id": "turn-150",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:01",
+      "html": "Oxygen. Wow, okay..."
+    },
+    {
+      "id": "turn-151",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:03",
+      "html": "Okay, wow, that's..."
+    },
+    {
+      "id": "turn-152",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:04",
+      "html": "High healthy to anomy. O..."
+    },
+    {
+      "id": "turn-153",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:05",
+      "html": "Crazy interesting."
+    },
+    {
+      "id": "turn-154",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:07",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-155",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:07",
+      "html": "Ionize nitrogen molecules low down."
+    },
+    {
+      "id": "turn-156",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:12",
+      "html": "But how is it related to Japan?"
+    },
+    {
+      "id": "turn-157",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:16",
+      "html": "I don't know, I think it got a little bit messed up, but I think it got a bit..."
+    },
+    {
+      "id": "turn-158",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:19",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-159",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:21",
+      "html": "Atomic. There we go, and we're doing that. Yeah..."
+    },
+    {
+      "id": "turn-160",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:26",
+      "html": "Okay..."
+    },
+    {
+      "id": "turn-161",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:26",
+      "html": "I let you..."
+    },
+    {
+      "id": "turn-162",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:26",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-163",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:26",
+      "html": "Par parcel that one because I think it's not..."
+    },
+    {
+      "id": "turn-164",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "23:28",
+      "html": "It's okay."
+    },
+    {
+      "id": "turn-165",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "23:28",
+      "html": "Fair. I'm going to go for silicon logic and paradoxes. I'll give it to you, but $800. I think you... The Mon Hall Paradox behind three doors. I wish I gave it to myself now. So... I'll let you read it first, because it's a bit wordy."
+    },
+    {
+      "id": "turn-166",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "24:01",
+      "html": "Off to let you to switch to do to lo 3..."
+    },
+    {
+      "id": "turn-167",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "24:11",
+      "html": "Have you ever seen this problem?"
+    },
+    {
+      "id": "turn-168",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "24:13",
+      "html": "No one."
+    },
+    {
+      "id": "turn-169",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "24:14",
+      "html": "Let me show it to you, because it's quite fun, first of all, and plus, I think it's simpler to see it."
+    },
+    {
+      "id": "turn-170",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "24:18",
+      "html": "Okay."
+    },
+    {
+      "id": "turn-171",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "24:20",
+      "html": "Okay, it's very fun. It's on American TV in the past. Monty Hall problem <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Monty Hall problem' as 'Monty Whole problem'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Monty Hall problem\" <span class=\"text-stone-400\">(note-taker wrote: \"Monty Whole problem\")</span></span>..."
+    },
+    {
+      "id": "turn-172",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "24:31",
+      "html": "Opens the door to show good..."
+    },
+    {
+      "id": "turn-173",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "24:36",
+      "html": "A okay."
+    },
+    {
+      "id": "turn-174",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "24:42",
+      "html": "For the day of painting. If you swish and you pick one over to that you switch to do to."
+    },
+    {
+      "id": "turn-175",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "25:00",
+      "html": "We go. So this is the actual... Here we go. Here we go."
+    },
+    {
+      "id": "turn-176",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "25:13",
+      "html": "So this is... The problem."
+    },
+    {
+      "id": "turn-177",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Video Clip",
+      "time": "25:40",
+      "html": "I'll take three."
+    },
+    {
+      "id": "turn-178",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "25:59",
+      "html": "So there are three doors... And there's a sports..."
+    },
+    {
+      "id": "turn-179",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:03",
+      "html": "Behind one of... The doors. And the problem..."
+    },
+    {
+      "id": "turn-180",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:11",
+      "html": "Is that... Obviously it's... A one and... Three chance."
+    },
+    {
+      "id": "turn-181",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:15",
+      "html": "Okay? But what he does is... He lets... When you..."
+    },
+    {
+      "id": "turn-182",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:21",
+      "html": "Now that they've revealed this... One, he offers that they want to switch..."
+    },
+    {
+      "id": "turn-183",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:26",
+      "html": "If they... Want to... Swap. So you have to..."
+    },
+    {
+      "id": "turn-184",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:28",
+      "html": "Work out... What is... The actual probability now."
+    },
+    {
+      "id": "turn-185",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:32",
+      "html": "Okay, so the... Probability now... Is 1 and..."
+    },
+    {
+      "id": "turn-186",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:35",
+      "html": "3, right? 33 . 3. 333. So what's the problem? So now I'll speed it..."
+    },
+    {
+      "id": "turn-187",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "26:55",
+      "html": "I think I should show it to you like the premise here so it's a little bit more clearer. He'll be... It'll be very quick. He'll be good it taste quite slower."
+    },
+    {
+      "id": "turn-188",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Video Clip",
+      "time": "27:08",
+      "html": "So you've made it to the last round of a TV game show and have the chance to win a brand new car. It sits behind one of these three doors, but the other two have a sad little goat behind them. You make your choice and the host decides to reveal where one of the goats is. He then offers you a chance to change your door. Do you do it? Does changing your choice even make a difference? The short answer is yes."
+    },
+    {
+      "id": "turn-189",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "27:33",
+      "html": "I didn't think it was going to give it away then. I didn't think it was going to give away then, so let's go back to the question. So, yeah, so it's okay, so it does increase your probability, right? Well, so what is that probability, do you think? So you're on the game show, you choose one, but before he tells you the correct one, he opens one of them and says, \"It's not that.\" Then he says, \"Do you want to change your choice?\" So you got two left, and he says, \"Do you want to change to the other door?\" So they said, \"Should you change?\" And you should. But..."
+    },
+    {
+      "id": "turn-190",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "28:15",
+      "html": "Yeah, I..."
+    },
+    {
+      "id": "turn-191",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "28:15",
+      "html": "What is the new probability?"
+    },
+    {
+      "id": "turn-192",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "28:16",
+      "html": "It should be higher than half, but how much? But isn't it still half? Why is it improving?"
+    },
+    {
+      "id": "turn-193",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "28:38",
+      "html": "Why is it's so you had a one and three chances, right? But you but he just gave you 33% more, right? So mathematically, you should change, right? You should change because he you just got better rods. Let's why don't we go back to the video? Because it's a very short video here and there."
+    },
+    {
+      "id": "turn-194",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "29:07",
+      "html": "Okay..."
+    },
+    {
+      "id": "turn-195",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "29:07",
+      "html": "Yeah. It's quite interesting, I think, yeah, we got..."
+    },
+    {
+      "id": "turn-196",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "29:10",
+      "html": "I should."
+    },
+    {
+      "id": "turn-197",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Video Clip",
+      "time": "29:11",
+      "html": "Even though it seems counterintuitive, changing your door choice actually doubles your odds of winning the car. But how is that possible? This is the Monty Hall problem. At the start, most people correctly assume that you have a one in three chance of choosing the correct door, but it would be incorrect to assume that when one door is removed, each door now holds a 50/50 chance of having the car. Let's use a deck of cards to understand why pick a card from this deck without looking. This card has a one in 52 chance of being the ace of spades, but now I'm going to flip over all the other cards except one, none of which are the ace of spades. Of the two cards left, which one seems more likely to be the ace of spades? The one you chose randomly out of a deck of 52, or the one I purposely and suspiciously left turned down? It turns out your card remains at a chance of one in 52. Where my card now has a 51 out of 52 probability of being the ace of spades. The same principle is true with the three doors. You see, when I removed the door, I did so with motive, knowing there was a goat behind it. The only two scenarios that exist are A, you chose the correct door, and I'm arbitrarily picking one of the wrong choices to show you in which case staying will make you win. Or B, you pick the wrong door, and I show you the other incorrect answer, in which case switching will make you win. Scenario A will always happen when you choose the winning door, and B will always happen when you pick a losing door. Therefore, A will happen one-third of the time, and B will happen two-thirds of the time. As such, switching your door wins two out of three times. This paradox has perplexed many people, including scientists and mathematicians, to this day. Because our gut tells us that switching will have no consequence, but when using formal calculations or computer simulators, the results don't lie. Switching your door increases the probability of winning. Let's see it one more time using a chart. Here are all the possible scenarios. The car is behind door one, two, or three, and you have the choice of each three doors. This means there are nine possible outcomes. Let's tally them up quickly. If it's behind door one and you chose door one, you should stay. But if you chose door two or three, you should switch. If it's behind door two and you chose door two, you should stay, but the other two, you should switch. Add it all up, and you should switch six out of nine times. So, do you still trust your gut feeling? Got a burning question you want answered? Ask it in the comment."
+    },
+    {
+      "id": "turn-198",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "31:28",
+      "html": "Yeah. So if you go to Japan and you're a Japanese game show, and they go, \"Where is the kimono or something?\" Which door to switch, right? Yeah. Have you never seen that before? Okay, in England, in America, it's quite normal to have this game. So what's the probability?"
+    },
+    {
+      "id": "turn-199",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "31:59",
+      "html": "It's the 66%, but I still don't know why I don't get it."
+    },
+    {
+      "id": "turn-200",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "32:08",
+      "html": "Because it's slightly..."
+    },
+    {
+      "id": "turn-201",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "32:11",
+      "html": "Slightly rightse."
+    },
+    {
+      "id": "turn-202",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "32:11",
+      "html": "Biased against the losing doors. Okay, yeah, so for example, he's they reveal a door."
+    },
+    {
+      "id": "turn-203",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "32:24",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-204",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "32:25",
+      "html": "Well, that's the problem, they reveal a door. So your odds have increased, so you should bear that in mind. Yeah, okay, but yeah, very good. I'll give you the points. That's good. Okay, so..."
+    },
+    {
+      "id": "turn-205",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "32:41",
+      "html": "It's okay. I didn't get it."
+    },
+    {
+      "id": "turn-206",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "32:45",
+      "html": "I'll go for Western blind spot and subtext British corporate subtext. If you pitch an ambitious and ambitious chip schedule in London and a British director smiles warmly and says, well, that's a very brave proposal. What did they actually mean? As well, if that's a very brave, it means it's extremely. Really? Well, yeah, that's so I would say, well, that is a very brave that is a very brave proposal. That is a very brave yeah, that is a very brave. No, I want to say it's a complete disaster. I would say maybe here. Okay anyway, I got it wrong. According to that, which one would you like..."
+    },
+    {
+      "id": "turn-207",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "33:46",
+      "html": "Hidden Japan. $400."
+    },
+    {
+      "id": "turn-208",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "33:49",
+      "html": "Learn? Why did Tokyo remove almost all public street trash bins in 1995, forcing businesses in Shibuya <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Shibuya' as 'Shabuya'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Shibuya\" <span class=\"text-stone-400\">(note-taker wrote: \"Shabuya\")</span></span> and Vu to carry wrappers in their bags even though the city remains spotless?"
+    },
+    {
+      "id": "turn-209",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "34:09",
+      "html": "They want to enforce trash separation."
+    },
+    {
+      "id": "turn-210",
+      "chapterId": "chap-5",
+      "chapterTitle": "Chapter V • Helium Acoustics, Monty Python SPAM, Aqua Regia, Marie Curie & $1 Vietnamese Crab Soup (39:20)",
+      "speaker": "Louie",
+      "time": "34:17",
+      "html": "Yeah, you think it's that? Okay, yeah, fair enough. Let's have a look for security after the 1995 Tokyo..."
+    },
+    {
+      "id": "turn-211",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "34:26",
+      "html": "Okay. Okay."
+    },
+    {
+      "id": "turn-212",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "34:26",
+      "html": "Subway sarin attack. Okay? It's annoying, right? There are no bins in Tokyo. It's really annoying. But do okay, we still do. Well, we've still got a hundred. Okay, I'm going to go for silicon logic at the physical limit of Moore's law. Why can silicon transistors not shrink off below one nanometer? About electrons mysteriously ghosting straight through closed barriers even when the gate is switched off. Alright, let me ask. Think about this mystery ghost. Shrinking, I think so. I don't know, because it's, so low, it's when you measure it, right, it's, i don't know, you it collapses, right? I don't know, I is that, on the in the wave quantum tunneling, a sub nanometer thickness electron act as probability waves and tunnel right through insulating oxide walls, creating leakage currents. I think I was wrong. I think I was wrong. My answer is. Not good enough. Okay. Did you know this?"
+    },
+    {
+      "id": "turn-213",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "35:48",
+      "html": "No. We don't do 1nm chips, so... I don't know."
+    },
+    {
+      "id": "turn-214",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "35:55",
+      "html": "Okay, I know it has something to do... Obviously, we could all guess that it's something to do..."
+    },
+    {
+      "id": "turn-215",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "36:01",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-216",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "36:01",
+      "html": "With collapsing waves. Okay, here we go, and which one would you like next?"
+    },
+    {
+      "id": "turn-217",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "36:07",
+      "html": "I'll pick the silicon. 500..."
+    },
+    {
+      "id": "turn-218",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "36:10",
+      "html": "Silicon 500. The birthday paradox in a room of random strangers, what is the minimum number of people needed? So there is more than a 50% probability that two of them share the exact same birthday? I'm going to guess as well, I think I could guess."
+    },
+    {
+      "id": "turn-219",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "36:31",
+      "html": "More than 50% probability. Two of them share this existing birthday. Two of them those 50 say twelve."
+    },
+    {
+      "id": "turn-220",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "36:54",
+      "html": "I don't know why..."
+    },
+    {
+      "id": "turn-221",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "36:55",
+      "html": "My guess is chro..."
+    },
+    {
+      "id": "turn-222",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "37:00",
+      "html": "I think it's... I'm going to get 72, we go..."
+    },
+    {
+      "id": "turn-223",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "37:02",
+      "html": "W why is this? Okay."
+    },
+    {
+      "id": "turn-224",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "37:04",
+      "html": "I don't know, 2323..."
+    },
+    {
+      "id": "turn-225",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "37:05",
+      "html": "Why is it 2323?"
+    },
+    {
+      "id": "turn-226",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "37:09",
+      "html": "Okay, seventy people is 99%. Okay, so yeah, I forgot. Just 23 people equals 50.7%. Because there are 250 unique pairs to compare by 70 people, it hits 99.9%. I knew 70 was a number about this problem, but 7072. Okay, when's your birthday?"
+    },
+    {
+      "id": "turn-227",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "37:38",
+      "html": "9th of September. <span class=\"asr-fix-pill\" title=\"Note-taker misheard '9th of September.' as 'N of September.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"9th of September.\" <span class=\"text-stone-400\">(note-taker wrote: \"N of September.\")</span></span> Yes."
+    },
+    {
+      "id": "turn-228",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "37:40",
+      "html": "Yeah, so I'm the 21st of July."
+    },
+    {
+      "id": "turn-229",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "37:44",
+      "html": "I see."
+    },
+    {
+      "id": "turn-230",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "37:45",
+      "html": "Yeah, okay, Miro, is it Wago? Yeah, I'll do this one here. Western called no win circular traps. A catch 22... Needing experience to get hired, yet needing to get hired to gain experience. What 961 story invented catch 22? What was the trap? No idea. I have no idea. Do you know it all?"
+    },
+    {
+      "id": "turn-231",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "38:27",
+      "html": "No..."
+    },
+    {
+      "id": "turn-232",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "38:28",
+      "html": "Have you ever heard of catch 22?"
+    },
+    {
+      "id": "turn-233",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "38:31",
+      "html": "I think so. I can't remember where you came from."
+    },
+    {
+      "id": "turn-234",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "38:35",
+      "html": "Yeah, so catch 22 is when... Yeah, like in the example, I need to get better at basketball, but there are no basketball courts or something. It's circular, negative. Joseph Heller's World War II novel, Catch 22. Bomber pilots could be excused from deadly fights only if declared insane. But asking to avoid danger proves you're rational and sane. Catch 22. Because obviously, if you're crazy, you would probably want to do it. Or..."
+    },
+    {
+      "id": "turn-235",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "39:15",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-236",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "39:15",
+      "html": "Do something else. Yeah..."
+    },
+    {
+      "id": "turn-237",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "39:17",
+      "html": "Yes."
+    },
+    {
+      "id": "turn-238",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "39:18",
+      "html": "Wow. Okay, which one would you like?"
+    },
+    {
+      "id": "turn-239",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "39:25",
+      "html": "I will get the chemistry 400."
+    },
+    {
+      "id": "turn-240",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "39:28",
+      "html": "Chemistry 400. Why does inhaling helium make your voice sound like a car, a cartoon chipmunk, even though helium does not actually change the vibration frequency pitch of your vocal cords at all? Have you ever done that? Have you ever had a balloon and..."
+    },
+    {
+      "id": "turn-241",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "40:01",
+      "html": "No, I've not..."
+    },
+    {
+      "id": "turn-242",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "40:02",
+      "html": "Experience was never? Okay..."
+    },
+    {
+      "id": "turn-243",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "40:04",
+      "html": "Never for because it your throat gets bigger."
+    },
+    {
+      "id": "turn-244",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "40:12",
+      "html": "Now think about the helium. What's unique about helium? Okay, what happens to helium in the atmosphere?"
+    },
+    {
+      "id": "turn-245",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "40:20",
+      "html": "He knew even float the to float to towards the sky..."
+    },
+    {
+      "id": "turn-246",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "40:31",
+      "html": "Yeah, but then where does it go after that?"
+    },
+    {
+      "id": "turn-247",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "40:35",
+      "html": "Atmosphere ozone the a..."
+    },
+    {
+      "id": "turn-248",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "40:37",
+      "html": "Yeah, and after that, it's to space, right? It leaks out, so why does it float so much?"
+    },
+    {
+      "id": "turn-249",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "40:49",
+      "html": "It is it has a lower density."
+    },
+    {
+      "id": "turn-250",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "40:52",
+      "html": "So how do you think it how do you think it acts when it goes through your vocal tract? How do you think it like, what is what's going on? I think it. I think it's because it's lighter, it moves faster. I think. I think said..."
+    },
+    {
+      "id": "turn-251",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "41:15",
+      "html": "Okay. I see."
+    },
+    {
+      "id": "turn-252",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "41:20",
+      "html": "Pro everything, yeah, okay..."
+    },
+    {
+      "id": "turn-253",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "41:25",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-254",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "41:25",
+      "html": "Yeah, you never been to a birthday party being like, hello everybody, happy birthday, you know, well, okay..."
+    },
+    {
+      "id": "turn-255",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "41:37",
+      "html": "You can have it."
+    },
+    {
+      "id": "turn-256",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "41:38",
+      "html": "Are you sure? Yes..."
+    },
+    {
+      "id": "turn-257",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "41:42",
+      "html": "Yeah."
+    },
+    {
+      "id": "turn-258",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "41:42",
+      "html": "I'm going to take this one here. Why is unwanted junk email called spam? Originally, it was a brand of canned ham. Which legendary 1970s British comedian group accidentally inspired hackers to name it that? I don't know, I think spam because the English gave it away, and people don't like the English. I think something like that or Americans or something, I don't know, the ban, I'm guessing the who, I don't know. Do you have any ideas?"
+    },
+    {
+      "id": "turn-259",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "42:20",
+      "html": "No ili..."
+    },
+    {
+      "id": "turn-260",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "42:21",
+      "html": "No..."
+    },
+    {
+      "id": "turn-261",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "42:21",
+      "html": "No beaters..."
+    },
+    {
+      "id": "turn-262",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "42:23",
+      "html": "Yeah, Monty Python. I thought it was a comedy group. Sorry. Okay. 90 seventies Cafe Sketch. A table of Vikings drowns out every normal conversation by loudly singing spam nonstop. Okay, that's why. Interesting. Do you know which country the World Wide Web? So, do you know not the country, but do you know the guy who invented the World Wide Web? Do you know which countries he's from? England?"
+    },
+    {
+      "id": "turn-263",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "42:55",
+      "html": "No. Okay."
+    },
+    {
+      "id": "turn-264",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "42:57",
+      "html": "Yeah, okay, I got that wrong. Which one would you like next?"
+    },
+    {
+      "id": "turn-265",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "43:04",
+      "html": "I will take the Chemistry and Weird Science. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Chemistry and Weird Science.' as 'chemistry and bed sliize.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Chemistry and Weird Science.\" <span class=\"text-stone-400\">(note-taker wrote: \"chemistry and bed sliize.\")</span></span>"
+    },
+    {
+      "id": "turn-266",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "43:07",
+      "html": "Are you sure? You're doing... Want this one?"
+    },
+    {
+      "id": "turn-267",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "43:09",
+      "html": "Okay, any anyone I won't know anyway that she fing a solid ro o mi one deserves. What's the name?"
+    },
+    {
+      "id": "turn-268",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "43:39",
+      "html": "Do you know this one?"
+    },
+    {
+      "id": "turn-269",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "43:45",
+      "html": "Latin name, but is its Latin name? No idea."
+    },
+    {
+      "id": "turn-270",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "43:55",
+      "html": "No, I don't know either. Aqua Regia <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Aqua Regia' as 'AG Riga'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Aqua Regia\" <span class=\"text-stone-400\">(note-taker wrote: \"AG Riga\")</span></span>... Chemist... GE Kai dissolved two gold noble medals into an orange beaker <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'orange beaker' as 'orange baker'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"orange beaker\" <span class=\"text-stone-400\">(note-taker wrote: \"orange baker\")</span></span> of Aqua Regia <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Aqua Regia' as 'Aca Riga'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Aqua Regia\" <span class=\"text-stone-400\">(note-taker wrote: \"Aca Riga\")</span></span> on his shelf and..."
+    },
+    {
+      "id": "turn-271",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "44:11",
+      "html": "Ncion. Yes."
+    },
+    {
+      "id": "turn-272",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "44:12",
+      "html": "Swear the code back. Wow, have you heard of this before? Right. Interesting."
+    },
+    {
+      "id": "turn-273",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "44:20",
+      "html": "I've heard of this before."
+    },
+    {
+      "id": "turn-274",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "44:23",
+      "html": "Okay, so last one, calling a costly, useless project you can't get rid of a white elephant comes from a real Southeast Asian royal punishment. Why did ancient kings of Siam give sacred white elephants to courtiers who displease them? Do you know this answer?"
+    },
+    {
+      "id": "turn-275",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "44:48",
+      "html": "No."
+    },
+    {
+      "id": "turn-276",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "44:50",
+      "html": "I'm guessing, white elephants are angry, I don't know..."
+    },
+    {
+      "id": "turn-277",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "44:57",
+      "html": "Okay."
+    },
+    {
+      "id": "turn-278",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "44:58",
+      "html": "Scared why elephants couldn't legally be put to work or given away. Sacred. Okay, yeah, cost a fortune to feed and pamper. Politely bankrupting the recipient. Okay. So now we have to do Final Jeopardy. So we have to gamble. So I'm doing very badly. So you can play it smart. Even if I get it right, so I'm going to wager $2,200. I have to wager $2,300. How much would you like to wager? $400? Go, here we go. Only one person in history has ever won Nobel Prizes in two different sciences, physics and chemistry. Even today, her 120-year-old lab notebooks in Paris must be kept inside. Let all... Madam Curie."
+    },
+    {
+      "id": "turn-279",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "46:15",
+      "html": "One of two elements. Radio..."
+    },
+    {
+      "id": "turn-280",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "46:18",
+      "html": "We have to name the... Okay, and then one of the two elements, radium. Okay..."
+    },
+    {
+      "id": "turn-281",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "46:25",
+      "html": "Maybe..."
+    },
+    {
+      "id": "turn-282",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "46:26",
+      "html": "As... But yeah, you're right..."
+    },
+    {
+      "id": "turn-283",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "46:28",
+      "html": "No, yeah, okay..."
+    },
+    {
+      "id": "turn-284",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "46:30",
+      "html": "Yeah, well, that's what I didn't get right. I didn't know radium, no polonium."
+    },
+    {
+      "id": "turn-285",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "46:38",
+      "html": "PO polonium..."
+    },
+    {
+      "id": "turn-286",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "46:39",
+      "html": "Okay, very good. Bonan, you got zero. Yeah, to be honest, I purposely made it difficult for you, maybe a bit too difficult, but I thought it would be good for you to..."
+    },
+    {
+      "id": "turn-287",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "46:54",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-288",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "46:54",
+      "html": "Yeah. Okay, very good. So you've never seen this show Jeopardy? You've never seen it before? Yeah, it's..."
+    },
+    {
+      "id": "turn-289",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:04",
+      "html": "I only know the one, who wins million dollar or stuff like that. Something like that."
+    },
+    {
+      "id": "turn-290",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "47:13",
+      "html": "Okay, next week. Yeah, to be honest, I used to teach a lot of children in the past, and so I did make who Wants to be a Millionaire, but I did it with do you know OBS?"
+    },
+    {
+      "id": "turn-291",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:32",
+      "html": "O yes..."
+    },
+    {
+      "id": "turn-292",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "47:33",
+      "html": "Yeah, and so it's on my screen."
+    },
+    {
+      "id": "turn-293",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:36",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-294",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "47:37",
+      "html": "Yeah, and the kids used to go, \"Yeah, I used to sell it to other teachers as well because it had its own question editor and stuff.\""
+    },
+    {
+      "id": "turn-295",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:47",
+      "html": "I see."
+    },
+    {
+      "id": "turn-296",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "47:47",
+      "html": "Yeah, JSON files or stuff like that. Okay, very good. So... What do you...? I suppose you're at the end of your day."
+    },
+    {
+      "id": "turn-297",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:55",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-298",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "47:56",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-299",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "47:56",
+      "html": "It is nine, 99 20 pm..."
+    },
+    {
+      "id": "turn-300",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:01",
+      "html": "Have you had dinner?"
+    },
+    {
+      "id": "turn-301",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:03",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-302",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:04",
+      "html": "What did you have for dinner?"
+    },
+    {
+      "id": "turn-303",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:06",
+      "html": "Rice and cabbage and pork."
+    },
+    {
+      "id": "turn-304",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:11",
+      "html": "Okay, very nice. I had crab soup for dinner..."
+    },
+    {
+      "id": "turn-305",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:15",
+      "html": "The Vietnamese..."
+    },
+    {
+      "id": "turn-306",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:15",
+      "html": "Yeah..."
+    },
+    {
+      "id": "turn-307",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:16",
+      "html": "Crab soup. <span class=\"asr-fix-pill\" title=\"Note-taker misheard 'Crab soup.' as 'Scrap soup.'\"><span class=\"font-semibold text-emerald-800\">Fixed:</span> \"Crab soup.\" <span class=\"text-stone-400\">(note-taker wrote: \"Scrap soup.\")</span></span>"
+    },
+    {
+      "id": "turn-308",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:18",
+      "html": "Yes... I don't know why I've had it every day for two weeks. Yeah. It's because the lady said to me, \"When are you going to come?\" and I said, \"Every day.\" So I don't know why I'm trying to live up to it, but it's only $1. It's only $1."
+    },
+    {
+      "id": "turn-309",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:36",
+      "html": "So I see."
+    },
+    {
+      "id": "turn-310",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:37",
+      "html": "So cheap. Yeah, it's really good. Okay... Well, thank you very much."
+    },
+    {
+      "id": "turn-311",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:42",
+      "html": "Thank you."
+    },
+    {
+      "id": "turn-312",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:42",
+      "html": "I will see you next week or are you going to Tokyo next week?"
+    },
+    {
+      "id": "turn-313",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:49",
+      "html": "I think next week should still be fine. I'm going..."
+    },
+    {
+      "id": "turn-314",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:52",
+      "html": "Yes..."
+    },
+    {
+      "id": "turn-315",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "48:52",
+      "html": "On Thursday, so Wednesday should be fine."
+    },
+    {
+      "id": "turn-316",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "48:56",
+      "html": "Okay... Maybe, okay, no problem at all. Well, have a lovely week. I know you're very busy, so all the best and thank you very much."
+    },
+    {
+      "id": "turn-317",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:04",
+      "html": "Thank you."
+    },
+    {
+      "id": "turn-318",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:04",
+      "html": "Jes. Goodbye. Thank you."
+    },
+    {
+      "id": "turn-319",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:06",
+      "html": "Will. Will I be getting the transcript? Or. It. It is..."
+    },
+    {
+      "id": "turn-320",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:09",
+      "html": "Have you...?"
+    },
+    {
+      "id": "turn-321",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:09",
+      "html": "Not applicable for this..."
+    },
+    {
+      "id": "turn-322",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:12",
+      "html": "I can send it now, but I've just made sure. I'll send it right now as well. One second, before I forget, please. Send and upload this transcript. But you should have the other one as well. I'll double-check for that one as well. But I'll say it straight away now. Okay. Thank you very..."
+    },
+    {
+      "id": "turn-323",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:43",
+      "html": "YP. Sure."
+    },
+    {
+      "id": "turn-324",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:43",
+      "html": "Much and have..."
+    },
+    {
+      "id": "turn-325",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:44",
+      "html": "Yeah. Thank..."
+    },
+    {
+      "id": "turn-326",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:44",
+      "html": "A lovely day."
+    },
+    {
+      "id": "turn-327",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Wei Jing",
+      "time": "49:45",
+      "html": "You... Thank..."
+    },
+    {
+      "id": "turn-328",
+      "chapterId": "",
+      "chapterTitle": "",
+      "speaker": "Louie",
+      "time": "49:45",
+      "html": "Thank you..."
+    }
+  ],
+  "STUDENT_STRENGTHS": [
+    {
+      "time": "01:25",
+      "phrase": "\"Yeah, I'm really excited—so I need to wrap up my work before next Thursday!\"",
+      "note": "Effortless, native-sounding phrasal verb ('wrap up my work') used spontaneously when talking about pre-holiday deadlines."
+    },
+    {
+      "time": "05:06",
+      "phrase": "\"Because the Harry Potter movie is quite old, so they want to have a remake to get a new audience.\"",
+      "note": "Spot-on media business analysis ('remake', 'reach a new audience') explained concisely."
+    },
+    {
+      "time": "19:51",
+      "phrase": "\"Only one Dutch company builds the $350M EUV lithography machines... It is ASML!\"",
+      "note": "Instant semiconductor industry precision nailing ASML right away!"
+    },
+    {
+      "time": "28:16",
+      "phrase": "\"It should be higher than half—but isn't it still half? Why is it improving?\"",
+      "note": "Honest, rigorous scientific skepticism—refusing to blindly accept '66.7%' without understanding the underlying probability mechanism!"
+    },
+    {
+      "time": "40:49",
+      "phrase": "\"Why does helium float out to space? Because it has a lower density!\"",
+      "note": "Clean, immediate physics reasoning connecting gas density to acoustic speed."
+    },
+    {
+      "time": "49:06",
+      "phrase": "\"Will I be getting the transcript, or is it not applicable for this?\"",
+      "note": "Polite, high-register C1 usage of 'not applicable'—and yes, here is your full Sanctuary transcript!"
+    }
+  ],
+  "GENTLE_POLISHES": [
+    {
+      "time": "01:00",
+      "topic": "Future Plans for Upcoming Travel",
+      "said": "Yes, I go with my parents and my siblings.",
+      "natural": "Yes, I'm going with my parents and my siblings.",
+      "why": "For fixed, exciting personal trips already booked (like next Thursday's flight to Tokyo!), Present Continuous ('I'm going') sounds most natural."
+    },
+    {
+      "time": "03:48",
+      "topic": "Splitting Up for an Afternoon ('Go our separate ways')",
+      "said": "My brother wanted to visit a Harry Potter exhibition, and I decided to go shopping instead, so we will be on our way.",
+      "natural": "...so we'll split up / go our separate ways for that afternoon.",
+      "why": "'Be on our way' means departing together, whereas 'split up' or 'go our separate ways' means each person does their own fun activity!"
+    },
+    {
+      "time": "05:54",
+      "topic": "Narrative Past for Recent Market Swings",
+      "said": "About how the stock price crashes and eventually it recovers.",
+      "natural": "About how the stock price crashed and then bounced right back / recovered.",
+      "why": "Using past tense ('crashed... recovered' or 'bounced back') anchors a specific recent news event cleanly."
+    },
+    {
+      "time": "23:12",
+      "topic": "Word Order in Indirect / Follow-Up Questions",
+      "said": "But how is it related to Japan?",
+      "natural": "Wait—what does the Aurora Borealis have to do with Japan?",
+      "why": "Your grammar was 100% correct! 'What does X have to do with Y?' is also a great idiomatic way to call out a funny category mismatch!"
+    },
+    {
+      "time": "34:09",
+      "topic": "Expressing Plausible Hypotheses",
+      "said": "They want to enforce trash separation.",
+      "natural": "Could it be to enforce strict recycling and waste sorting?",
+      "why": "Framing trivia guesses with 'Could it be to...?' or 'My hunch is...' sounds super fluent and natural."
+    },
+    {
+      "time": "47:19",
+      "topic": "Naming Classic Western TV Game Shows",
+      "said": "I only know the one who wins million dollar or stuff like that.",
+      "natural": "I've only seen 'Who Wants to Be a Millionaire?'—shows along those lines.",
+      "why": "'Shows along those lines' is a crisp C1 upgrade over 'or stuff like that'."
+    }
+  ],
+  "ASR_FIXES": [
+    {
+      "time": "00:00",
+      "speaker": "Louie",
+      "wrong": "I was sorry I'm lame.",
+      "right": "Sorry I'm late.",
+      "note": "Krisp mercilessly turned a polite 'Sorry I'm late' into 'Sorry I'm lame'!"
+    },
+    {
+      "time": "00:01",
+      "speaker": "Wei Jing",
+      "wrong": "Mia | 00:01",
+      "right": "Wei Jing | 00:01",
+      "note": "Krisp's voice profile randomly nicknamed Wei Jing 'Mia' across tonight's entire file!"
+    },
+    {
+      "time": "01:59",
+      "speaker": "Wei Jing",
+      "wrong": "Pica Chees ... Akihabaa",
+      "right": "Pikachu plushies ... Akihabara",
+      "note": "Shopping at Tokyo's Pokémon Center & Akihabara turned Pikachu into 'Pica Chees'!"
+    },
+    {
+      "time": "03:01",
+      "speaker": "Wei Jing",
+      "wrong": "Shabuya",
+      "right": "Shibuya (渋谷)",
+      "note": "Tokyo's iconic Shibuya district was spelled 'Shabuya'."
+    },
+    {
+      "time": "06:17",
+      "speaker": "Wei Jing",
+      "wrong": "Pa. My staff.",
+      "right": "Packing my stuff.",
+      "note": "Getting suitcases ready for Japan ('packing my stuff') became 'Pa. My staff.'!"
+    },
+    {
+      "time": "11:48",
+      "speaker": "Louie",
+      "wrong": "Harvard Miro 2 ... a month",
+      "right": "Harvard Mark II ... a moth",
+      "note": "Grace Hopper's famous 1947 relay 'moth' became 'a month' inside 'Miro 2'!"
+    },
+    {
+      "time": "13:35",
+      "speaker": "Louie",
+      "wrong": "caused a sucker to flip sides",
+      "right": "caused Osaka to flip sides",
+      "note": "Poor Osaka (大阪) was repeatedly transcribed as 'a sucker' during the Expo '70 escalator story!"
+    },
+    {
+      "time": "15:41",
+      "speaker": "Louie",
+      "wrong": "five-coded completely",
+      "right": "vibe-coded completely",
+      "note": "Modern AI developer slang 'vibe-coded' was misheard as 'five-coded'."
+    },
+    {
+      "time": "19:51",
+      "speaker": "Wei Jing",
+      "wrong": "It is a mi.",
+      "right": "It is ASML!",
+      "note": "Your correct semiconductor answer 'ASML' got clipped into 'a mi'."
+    },
+    {
+      "time": "43:55",
+      "speaker": "Louie",
+      "wrong": "AG Riga ... orange baker",
+      "right": "Aqua Regia ... orange beaker",
+      "note": "Gold-dissolving 'Aqua Regia' in a chemistry 'beaker' became 'AG Riga' in an 'orange baker'!"
+    },
+    {
+      "time": "48:16",
+      "speaker": "Wei Jing",
+      "wrong": "The Vietnamese ... Scrap soup.",
+      "right": "Vietnamese crab soup.",
+      "note": "Louie's $1 daily 'crab soup' turned into metallic 'scrap soup'!"
+    }
+  ],
+  "CULTURAL_PLACES": [
+    {
+      "meta": "23:35 – 32:35 | Probability & Logic",
+      "badge": "Famous Paradox",
+      "title": "1. Why Switching Wins 2/3 of the Time in the Monty Hall Paradox",
+      "desc": "Think of the 52-card deck analogy: you pick 1 random card (1/52 chance of being the Ace of Spades). The host—who KNOWS where the Ace is—looks at the other 51 cards and flips over 50 non-Aces, leaving just 1 mystery card face-down. Your card still only had a 1/52 shot, whereas the host's surviving card concentrates the entire remaining 51/52 probability! With 3 doors, your initial pick holds 1/3, while the host's filtered remaining door holds 2/3 (66.7%).",
+      "quote": "\"Even though our gut feeling screams 50/50, the host's informed filtering concentrates 2/3 probability onto the other door!\"",
+      "tags": [
+        "monty-hall",
+        "counterintuitive",
+        "probability",
+        "deck-of-cards"
+      ]
+    },
+    {
+      "meta": "00:47 – 04:10 | Japan Travel Preview",
+      "badge": "Tokyo & Mt. Fuji",
+      "title": "2. Shibuya, Tokyo Disneyland, Pokémon Center & Why There Are No Street Bins!",
+      "desc": "Next Thursday's family itinerary hits Tokyo's best contrasts: staying in neon-lit Shibuya, day-tripping to Mount Fuji and Tokyo Disneyland, hunting Pikachu plushies at the Pokémon Center & Akihabara, and splitting up while your brother visits the Harry Potter exhibition. Handy tip from tonight's $400 clue: carry a small zip bag for snack wrappers since Tokyo removed street bins in 1995!",
+      "quote": "\"First on the list: shopping, Tokyo Disneyland, buying Pikachu plushies at the Pokémon Center, and Akihabara!\"",
+      "tags": [
+        "shibuya",
+        "mount-fuji",
+        "akihabara",
+        "spotless"
+      ]
+    },
+    {
+      "meta": "32:45 – 45:10 | Western Idioms & Subtext",
+      "badge": "Cultural Decoder",
+      "title": "3. 'Very Brave', 'Catch-22', 'SPAM' & 'White Elephants'",
+      "desc": "Four classic Western cultural references decoded in one session: (1) If a British director calls your chip schedule 'very brave', they politely mean 'that will end in disaster'; (2) 'Catch-22' (from Joseph Heller's 1961 WWII novel) means a circular no-win rule; (3) 'SPAM' email comes from Monty Python's loud Viking café chant drowning out conversation; and (4) a 'White Elephant' comes from Siamese kings gifting sacred, unworkable elephants that bankrupted courtiers.",
+      "quote": "\"If a British director smiles warmly and says 'That is a very brave proposal,' run for cover!\"",
+      "tags": [
+        "british-subtext",
+        "catch-22",
+        "monty-python",
+        "white-elephant"
+      ]
+    },
+    {
+      "meta": "08:35 – 46:40 | Weird Chemistry",
+      "badge": "Lab Legends",
+      "title": "4. Gallium, Chiral Scent Twins, Aqua Regia & Marie Curie's Lead-Lined Notebooks",
+      "desc": "From Gallium (element 31) melting at 29.8°C in your palm and enantiomers of carvone smelling like spearmint vs caraway, to chemist George de Hevesy dissolving two gold Nobel medals in orange Aqua Regia ('royal water') to hide them from Nazi soldiers—and Marie Curie's radioactive notebooks still stored in lead boxes in Paris.",
+      "quote": "\"Why does helium sound like a chipmunk? Lower gas density lets sound travel nearly 3× faster through your vocal tract!\"",
+      "tags": [
+        "gallium",
+        "aqua-regia",
+        "chiral",
+        "marie-curie"
+      ]
+    }
+  ],
+  "FLASHCARD_KEYS": [
+    "wrap-up",
+    "hold-up-well",
+    "do-the-honors",
+    "chiral",
+    "kick-yourself",
+    "loss-aversion",
+    "survivorship-bias",
+    "counterintuitive",
+    "catch-22",
+    "white-elephant",
+    "wager",
+    "live-up-to"
+  ],
+  "QUIZ_QUESTIONS": [
+    {
+      "q": "1. Before flying to Tokyo next Thursday, you want to finish all pending feature tasks cleanly. Which phrasal verb did you use naturally?",
+      "options": [
+        "Drown out my work",
+        "Wrap up my work",
+        "Pamper my work",
+        "Wager my work"
+      ],
+      "correct": 1,
+      "explain": "'Wrap up' means to finish or bring tasks to a tidy conclusion before a deadline or holiday."
+    },
+    {
+      "q": "2. If a British executive in London smiles politely and calls your ambitious project timeline 'a very brave proposal', what is the subtext?",
+      "options": [
+        "You deserve an immediate promotion",
+        "They think it is practically guaranteed to end in disaster",
+        "They want to double your budget",
+        "They completely agree"
+      ],
+      "correct": 1,
+      "explain": "In classic British understatement (famous from 'Yes, Minister'), 'very brave' means 'reckless / doomed to fail'!"
+    },
+    {
+      "q": "3. What do English speakers call a costly, high-maintenance project or building that serves little practical purpose (named after sacred gifts from Kings of Siam)?",
+      "options": [
+        "A cartoon chipmunk",
+        "A Buckyball",
+        "A white elephant",
+        "A silver lining"
+      ],
+      "correct": 2,
+      "explain": "A 'white elephant' is an expensive burden you cannot easily use or get rid of."
+    },
+    {
+      "q": "4. In the Monty Hall Paradox (and the 52-card Ace of Spades analogy), why does switching doors win 2/3 (66.7%) of the time?",
+      "options": [
+        "Because the car moves while you aren't looking",
+        "Because the host knowingly filters out a goat door, concentrating the 2/3 probability onto the remaining closed door",
+        "Because Door #2 is always luckier",
+        "It doesn't—it's 50/50"
+      ],
+      "correct": 1,
+      "explain": "It feels counterintuitive, but the host's informed removal transfers the full 2/3 non-picked probability onto the single remaining door!"
+    },
+    {
+      "q": "5. Requiring work experience in order to get hired, while needing to get hired in order to gain work experience, is a textbook example of:",
+      "options": [
+        "Survivorship bias",
+        "A Catch-22",
+        "Triple Witching",
+        "Aqua Regia"
+      ],
+      "correct": 1,
+      "explain": "Coined by Joseph Heller in 1961, a 'Catch-22' is an inescapable circular paradox."
+    },
+    {
+      "q": "6. When speaking about an old film (like the first Harry Potter movie) that still looks great and entertains audiences decades later, we say it:",
+      "options": [
+        "Holds up well",
+        "Drowns out well",
+        "Kicks itself",
+        "Bears in mind"
+      ],
+      "correct": 0,
+      "explain": "'It holds up well' means something ages gracefully and maintains its quality over time."
+    }
+  ],
+  "REFLECTION_PROMPTS": [
+    {
+      "badge": "Prompt 01 • Safe Travels to Japan! 🗾",
+      "title": "Shibuya, Mt. Fuji & Pikachu Haul",
+      "body": "Have an amazing family trip to Tokyo and Mount Fuji next Thursday! Remember to spot whether commuters stand on the left on Tokyo escalators—and tell Louie which Pikachu plushie (and umbrella!) you picked up!"
+    },
+    {
+      "badge": "Prompt 02 • Explaining Monty Hall",
+      "title": "The 52-Card Trick",
+      "body": "Try testing a colleague or sibling on the flight with the 3-door Monty Hall riddle—and use the '52-card Ace of Spades' analogy to see if it perplexes them too!"
+    },
+    {
+      "badge": "Prompt 03 • Movies & Christmas Rematch 🎬🎄",
+      "title": "New Categories Waiting!",
+      "body": "Your Jeopardy board now has two brand-new fun categories ('Movies, Cinema & Pop Culture' and 'Christmas & Holiday Trivia', with Markets/Quants removed!) ready whenever you want a cozy rematch."
+    }
+  ]
+}
 ];

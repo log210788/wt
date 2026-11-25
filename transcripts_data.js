@@ -1170,7 +1170,13 @@ window.WEI_JING_TRANSCRIPTS = [
         "speaker": "Lewis",
         "time": "50:21",
         "part": "",
-        "text": "Okay? And so what happens is, again, I don't record the— your actual voice or anything like that. It's just— it has a software that, you know, you can imagine a bot that's just writing down everything we say. And then. You'll get the second. By second. Transcript. Okay? But What's really nice is, is that you can see what we say, and then it already. Has words highlighted. So if you hover over it, you can see that it will say, \"Oh, this is a C2 word.\" Okay? And so you can go back and you can see our conversation. Because I will purposely try to use a better word in places. So you can see, \"Oh, that's where Lewis dropped in.\" Or, \"That's why Lewis tried to speak, because it's being saved into the notes and we can review it.\" And if you click on it, it will turn up here. Then just. In case you didn't know how to pronounce it. Speaker 3 | 51:20 Serendipity."
+        "text": "Okay? And so what happens is, again, I don't record the— your actual voice or anything like that. It's just— it has a software that, you know, you can imagine a bot that's just writing down everything we say. And then. You'll get the second. By second. Transcript. Okay? But What's really nice is, is that you can see what we say, and then it already. Has words highlighted. So if you hover over it, you can see that it will say, \"Oh, this is a C2 word.\" Okay? And so you can go back and you can see our conversation. Because I will purposely try to use a better word in places. So you can see, \"Oh, that's where Lewis dropped in.\" Or, \"That's why Lewis tried to speak, because it's being saved into the notes and we can review it.\" And if you click on it, it will turn up here. Then just. In case you didn't know how to pronounce it."
+      },
+      {
+        "speaker": "Video Clip",
+        "time": "51:20",
+        "part": "",
+        "text": "Serendipity."
       },
       {
         "speaker": "Lewis",
@@ -9682,6 +9688,2099 @@ window.WEI_JING_TRANSCRIPTS = [
         "time": "56:32",
         "part": "",
         "text": "Have a good day. Thank you, Ti. Ti | 56:34 Thank you."
+      }
+    ]
+  },
+  {
+    "id": "lesson-05",
+    "number": "Lesson 05",
+    "date": "November 25, 2026",
+    "duration": "50.1 min",
+    "title": "Tokyo Countdown, Pikachu Plushies & High-IQ Jeopardy!",
+    "studyPage": "index.html?lesson=lesson-05",
+    "studyLabel": "Open Lesson 05 Full Sanctuary Notes",
+    "turns": [
+      {
+        "speaker": "Notes",
+        "time": "00:00",
+        "part": "",
+        "text": "﻿# Krisp ID: 01a210391bb07609845e9ba494130376 | Started (BKK): 2026-11-25 19:31 | Duration: 50.1 min"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:00",
+        "part": "",
+        "text": "I was sorry I'm lame."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:01",
+        "part": "",
+        "text": "Hi. So it's okay?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:03",
+        "part": "",
+        "text": "How are you today? How are you doing?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:05",
+        "part": "",
+        "text": "Yeah, I'm doing well, thank you."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:07",
+        "part": "",
+        "text": "Good and how is work...?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:10",
+        "part": "",
+        "text": "Work is especially busy this week."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:15",
+        "part": "",
+        "text": "What is your schedule like at work? What's your schedule of work like at work at the moment?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:23",
+        "part": "",
+        "text": "Right now I am working on implementing a new feature, so there are a few bugs here and there."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:33",
+        "part": "",
+        "text": "Okay. Very good. Very good. And. Have you had much time for yourself?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:40",
+        "part": "",
+        "text": "Not really..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:41",
+        "part": "",
+        "text": "No, and will you be breaking up for Christmas soon?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:47",
+        "part": "",
+        "text": "Christmas... Not really, but I will go to Japan next Thursday, yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:56",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "00:57",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "00:57",
+        "part": "",
+        "text": "With your family, is that correct?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:00",
+        "part": "",
+        "text": "Yes. I go with my parents and my siblings."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:04",
+        "part": "",
+        "text": "Okay. Yes, you'll go with your siblings... So I can't remember what you're doing, are you? You're not just going to Tokyo, are you? You're going somewhere else as well..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:16",
+        "part": "",
+        "text": "No, I'm just going to I'm going to Tokyo and Mount Fuji."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:21",
+        "part": "",
+        "text": "Andm Puji. Okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:23",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:23",
+        "part": "",
+        "text": "Very nice. Are you excited?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:25",
+        "part": "",
+        "text": "Yeah, I'm really excited. So I need to wrap up my work before next Thursday."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:32",
+        "part": "",
+        "text": "We'll go now. No, I'm joking."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:34",
+        "part": "",
+        "text": "No [Laughter] way."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:37",
+        "part": "",
+        "text": "And what what's on your to do list for Japan?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:45",
+        "part": "",
+        "text": "Shopping. The first on the list is shopping there. Disneyland and visiting the Pokemon Center."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:58",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:58",
+        "part": "",
+        "text": "Yeah, to..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "01:59",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "01:59",
+        "part": "",
+        "text": "Buy a few Pica Chees and, yup, and to visit Akihabaa."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:07",
+        "part": "",
+        "text": "Love the Piccatu..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "02:07",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:10",
+        "part": "",
+        "text": "Plushes, they're so good. What else is on your shopping list? Do you have any technology you want to pick up or...?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "02:19",
+        "part": "",
+        "text": "I want to get myself an umbrella."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:21",
+        "part": "",
+        "text": "[Laughter] Yes. I laugh because today is the only thing I had to get today was an umbrella. I didn't get it."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "02:35",
+        "part": "",
+        "text": "[Laughter] I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:37",
+        "part": "",
+        "text": "I was looking at them in the shop, so I was like, \"Yeah, okay, fair enough.\" So are you going to Disneyland with your whole family?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "02:48",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:49",
+        "part": "",
+        "text": "Very nice. Have you been before?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "02:52",
+        "part": "",
+        "text": "To Tokyo Disneyland. No, this is the first time."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "02:57",
+        "part": "",
+        "text": "Okay, it's very nice. Are you staying near Disneyland?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "03:01",
+        "part": "",
+        "text": "Not really, I'm staying in Shabuya. It will be quite a distance. Quite a distance to Disneyland. But it should be fine. Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "03:12",
+        "part": "",
+        "text": "Normally I stay near Disneyland. When I go, I stay near Disneyland."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "03:16",
+        "part": "",
+        "text": "I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "03:17",
+        "part": "",
+        "text": "Yeah wow Shabuya wow interesting. And do you have friends in Tokyo maybe this time?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "03:31",
+        "part": "",
+        "text": "I don't think I will be interacting much with other people other than my family members."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "03:38",
+        "part": "",
+        "text": "Okay, fair enough. How about your other family members? Will you be spending the whole time with them? In that case..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "03:48",
+        "part": "",
+        "text": "Most of the time we will be together. Other than that, there is one day when my brother wanted to visit an exhibition related to Harry Potter. Yeah, but I decided to go shopping instead, so we will be on our way."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "04:08",
+        "part": "",
+        "text": "And are you watching the new Harry Potter show?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "04:12",
+        "part": "",
+        "text": "Not yet. Is it good?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "04:14",
+        "part": "",
+        "text": "Neither... I haven't heard anything yet, so I don't know. I just discovered it's out now. I believe it's... Starts to come out..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "04:24",
+        "part": "",
+        "text": "Yup."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "04:24",
+        "part": "",
+        "text": "Now, so I will probably watch an episode tonight later this evening. Yes, and..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "04:30",
+        "part": "",
+        "text": "I see. It is a drama, right? A..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "04:32",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "04:33",
+        "part": "",
+        "text": "TV drama, TV..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "04:34",
+        "part": "",
+        "text": "It's a TV series. Yes. I think the budget is obviously better for the movie, right? So it's a bit unusual. Well, I understand why they made it. What do you think they made the show for besides to make money?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "04:56",
+        "part": "",
+        "text": "Because the Harry Potter movie is quite old, so they want to... They want to have a remake..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:06",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:06",
+        "part": "",
+        "text": "To get a new audience."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:09",
+        "part": "",
+        "text": "Yeah, I th I think so. And, but the old movie holds up well. It holds up well..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:15",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:17",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:18",
+        "part": "",
+        "text": "They are really good."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:19",
+        "part": "",
+        "text": "Wow, I'm surprised they have a well, not really surprised, but they have a Harry Potter exhibition, an expo. So I have a question. Before we get into the subject of today, I have a question. Has your work been very crazy because of the NVIDIA CEO?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:42",
+        "part": "",
+        "text": "Not really."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:45",
+        "part": "",
+        "text": "What do it mean, crazy? I mean, people in your company... Have they been like, \"This is crazy?\""
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:51",
+        "part": "",
+        "text": "Yeah. They have been talking about it..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "05:54",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "05:54",
+        "part": "",
+        "text": "About how the stock price crashes and eventually it recovers."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "06:01",
+        "part": "",
+        "text": "Very interesting, then he came back..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "06:03",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "06:04",
+        "part": "",
+        "text": "Very interesting. Wow, yeah, interesting. And, anything else you've been up to at all, anything else, just working, getting ready, yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "06:17",
+        "part": "",
+        "text": "Yeah. Getting ready. Pa. My staff."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "06:20",
+        "part": "",
+        "text": "Okay, very good. Okay. Let me just load up the lesson here to do. Okay, good. Share it here we go. So have you...? Do you know this show at all? Have you ever played Jeopardy? No. Okay, so this is a language exercise. The way it works is we have categories: Chemistry and Weird Science, Silicon Logic and Paradoxes Hit in Japan, Martial Arts Markets, Quants of Bubbles, Western Blind Spots, and Subtexts. Okay. As you see, each of these tabs is a question behind it. As it increases in price, it increases in difficulty. Okay, we'll be playing against each other, and you have a few options. You get to select the category and how much... If you get the answer right, you get awarded the points. If you get it wrong, you get minus the points. Okay? You can pass, but it gets passed to me and vice versa if I do it to you. Okay, anything else? There are two other things. There at the end, there is final Jeopardy. Okay, so there's a final question that we both share. You can bet how much you want out of your points to play just in case you're behind. There's a bonus somewhere. But hidden behind one of these, there's a bonus. It doubles your points. But you can choose who plays. Okay, so would you like to do the honors and choose your subjects and how much, please?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "08:34",
+        "part": "",
+        "text": "I will pick. Chemistry and environmental science. Let's try $100."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "08:43",
+        "part": "",
+        "text": "Sorry, so let me turn off the music. Sorry, I voice... Forget, here we get. Okay, here's your question. Which silver metal is liquid at room temperature, and which eerie metal sits solid on a lamp table yet melts into a puddle right in the palm of your hand?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "09:10",
+        "part": "",
+        "text": "I only know Mercury, atomic number 31."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "09:22",
+        "part": "",
+        "text": "This is it."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "09:25",
+        "part": "",
+        "text": "No, I have no idea. I have no idea."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "09:33",
+        "part": "",
+        "text": "Yeah, Mercury. Yeah, I think this is a gallium. Gallium..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "09:36",
+        "part": "",
+        "text": "Yeah, there are two. Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "09:38",
+        "part": "",
+        "text": "Yeah, and gallium, okay, no problem, so it said $100, so... Here we go, good, now it's my go, so I'll go for markets and quanta and bubbles. $100. Brilliant business... Isaac Newton. Lost £20,000 or millions today. Fear of missing out, buying back into soaring 1720s British stock right before it crashed. Crashed. Let me... I can calculate the motions of heavenly bodies but not the madness of people which bubble burned Newton. Okay, I see. So which industry collapsed or did not collapse? Industry burst, I guess... What do I guess it is? I don't know steel, no, not steel printing, let's say if printing or something, what do you think it is? Which industry do you think busted?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "10:55",
+        "part": "",
+        "text": "I think there is a stop that crashed."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "11:05",
+        "part": "",
+        "text": "It's a specific st..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "11:08",
+        "part": "",
+        "text": "I think I've heard it before, but I can't remember the name. Not sure."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "11:21",
+        "part": "",
+        "text": "Sea bubble, the South Sea... Company, have you ever heard of that?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "11:26",
+        "part": "",
+        "text": "I'm not sure I..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "11:29",
+        "part": "",
+        "text": "I've never had that. I'm..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "11:30",
+        "part": "",
+        "text": "Forgot South Sea..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "11:31",
+        "part": "",
+        "text": "Gonna escape, but I lost 100. Okay, and sure, which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "11:45",
+        "part": "",
+        "text": "Silicon Logic and Paradoxes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "11:48",
+        "part": "",
+        "text": "One another thing in 1947 engineers troubleshooting the Harvard Miro 2 computer who... This is quite difficult. Taps a real dead insect into the lab logbook. Okay, polarizing the term debugging, which insect was stuck into relay number 70? Okay, cockroach, yeah, okay, a month. I do that one, but I won't go this next one. I will go for Western blind spot and subtext. Where did the English idiom spill the beans meaning to accent leak confidential news supposedly or supposedly originated in ancient Greece? Where did the English even...? I don't know, maybe in Athens, right? I think that's a good guess. Secret ballot jars. Ancient Greeks voted by dropping white or dark beans into a clay urn, knocking the jar over, literally spilling the beans and expose the vote. Okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "13:17",
+        "part": "",
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "13:18",
+        "part": "",
+        "text": "That's where it comes from. Interesting, but not... No one good enough. Okay, here we go. Which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "13:25",
+        "part": "",
+        "text": "I'll get okay. Hidden Japan and Martial Arts. Hundred dollar hundred hundred."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "13:35",
+        "part": "",
+        "text": "In Tokyo, commuters stand neatly on the left side of escalators. Yeah, if you ride the bullet train two and a half hours west to Osaka, everyone stands on the right. Which global mega event in the 1970s caused a sucker to flip sides? Wow, I think I have to make this up. Look, the 1970s Sucker World Expo. Wow. A Sucker adopted Western right-side standing for millions of international visitors. How nice of them and never..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "14:14",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "14:14",
+        "part": "",
+        "text": "Switched back. Okay, I did make this challenging because I think you know, to learn new things and to think..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "14:25",
+        "part": "",
+        "text": "Sure."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "14:25",
+        "part": "",
+        "text": "Cool. Okay, I'm going to go for hidden gems. Japan. $300 in martial biochemics. TikTok, dose, kick, spitting hook kick delivers three to four times the force of a punch, and fighters let out a sharp shout. Key up and secular impacts. Psychologically, what does this sharp exhale do? Psychologically, well, it does two things. Obviously, it shocks your opponent, right? Catches them on rhythm. But it helps to empty up the air in your body, because if you punch and they punch and you have wind, we say wind, then you'll go... Sorry, that was grotesque. The air will fall out of you. Sure, just to scare it. There we go. Yeah, it bends contracts the diaphragm and core wall, locking the torso rigid but maximum kinetic force and shielding internal organs against impact. I think that was okay. I think I got that right. Yeah."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "15:32",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "15:33",
+        "part": "",
+        "text": "Okay, which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "15:36",
+        "part": "",
+        "text": "Just now I picked the $100, right? But it doesn't..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "15:41",
+        "part": "",
+        "text": "Sorry, there we go, it's not well coded, it's five-coded completely, as you could tell."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "15:48",
+        "part": "",
+        "text": "Okay, I..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "15:48",
+        "part": "",
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "15:48",
+        "part": "",
+        "text": "I'll pick the chemistry one, $200."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "15:53",
+        "part": "",
+        "text": "$200. Because the organic molecule carbon is chiral, right? Non-super..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "16:01",
+        "part": "",
+        "text": "My God..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "16:01",
+        "part": "",
+        "text": "Imposed, less than right-handed... Human scent and reception smell. It's two mirror twins as to be completely different foods, I think I know the answer to this one name at least one of the two sets. I think you can guess one of them. Are you sure?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "16:26",
+        "part": "",
+        "text": "I have no idea. Yeah, sure, I have no idea."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "16:30",
+        "part": "",
+        "text": "I think mint is one. I think mint... Yeah. Here we go. Spearman..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "16:38",
+        "part": "",
+        "text": "I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "16:41",
+        "part": "",
+        "text": "I don't know how I know this. Probably YouTube... Okay, I will go for markets in quants. 200 on Wall Street. Why is the third Friday of March, June, September, and December named? Nicknamed Triple Witching famous for... Final hour trading sparks... Wof. Interesting, but why do I think this is? Maybe it's quarterly figures released quarterly figures of the economy. I have a look. Three major derivative contracts expire at the exact same moment stock options. Okay, so it's just a calamity of expiring contracts and stuff. Okay, so not that long, interesting. Okay, which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "17:42",
+        "part": "",
+        "text": "Hidden Japan Martial Arts. 200 dollar."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "17:45",
+        "part": "",
+        "text": "200, here we go. Tokyo was originally a castle town under a completely different three-letter name until 868. Which Emperor moved the capital from Kyoto and renamed its eastern capital? What was Tokyo's old name? I know it is... I remember it for sure. Think of old movies, old... No, that's like six letters or something... Think of it... You... I in old anime or in TV shows. I think you're..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:29",
+        "part": "",
+        "text": "No..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:29",
+        "part": "",
+        "text": "Gonna kick yourself. Think you sure you gave up?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:35",
+        "part": "",
+        "text": "Well, yeah, I gave up."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:36",
+        "part": "",
+        "text": "You remember you can pass it to me. You're like..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:40",
+        "part": "",
+        "text": "Yeah, we just pass..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:41",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:42",
+        "part": "",
+        "text": "It to you."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:43",
+        "part": "",
+        "text": "Do Edo Eddo Japan yeah, edo..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:49",
+        "part": "",
+        "text": "Okay, I do..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:49",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "18:51",
+        "part": "",
+        "text": "Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "18:53",
+        "part": "",
+        "text": "I was like, \"What could it be?\" As course of course. Okay, so when I go now, I'll go for Marcus and Quants again. Which Cold War NSA codebreaker and geometer founded Renaissance Technologies, whose secretive medallion fund averaged 66% annual AU before fees for 30 straight years outperforming Buffett stories? No idea. What a crazy question. Here we go. Jim Simons... No, I don't know. Okay, anyway, yeah, you got which one would you like? Okay, we will go to print modern 2 nanometer and 3 nanometer microchips. Only one Dutch company on Earth builds the 350 million extreme ultraviolet. Yeah."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "19:51",
+        "part": "",
+        "text": "It is a mi."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "19:53",
+        "part": "",
+        "text": "Co... Nice... Okay, Mia, I'll go... NTZ as well. Nobel laureate Daniel... Or approved. Humans feel the psychological pain of losing $1000 roughly twice as powerful as the pleasure of winning $1,000, trapping investors into holding losses too long. What is this bias called? Sunken costs? Sunken costs. I think that... No loss of a version. Okay, very good. Okay, which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "20:45",
+        "part": "",
+        "text": "Chemistry. 300 do 300 dollars."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "20:48",
+        "part": "",
+        "text": "Chemistry, $300."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "20:51",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "20:51",
+        "part": "",
+        "text": "Everyone knows diamond and graphite are pure carbon, but in 1985, a chemist won a Nobel Prize for Discovery. Sea 60. A hollow cage of 60 carbon atoms shaped exactly like a classic football. What is it called? No, I did..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "21:14",
+        "part": "",
+        "text": "No idea. Do you know...?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "21:20",
+        "part": "",
+        "text": "Would you like to pass it to me? I can guess..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "21:22",
+        "part": "",
+        "text": "I'll pass it to you, I'll pass it to you."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "21:24",
+        "part": "",
+        "text": "Carbon fiber."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "21:32",
+        "part": "",
+        "text": "My God. The name..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "21:36",
+        "part": "",
+        "text": "No..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "21:36",
+        "part": "",
+        "text": "Intern the..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "21:36",
+        "part": "",
+        "text": "Okay, it's your good, which, no by good, my good. Okay, I'll take this one. This during World War two, statistician Abraham War studied bullet holes on return. I think I know the answer for this. Yeah, it's survivor bias, right?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "21:57",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "22:00",
+        "part": "",
+        "text": "So, is it okay? Yeah, survivor bias, yeah, and you're going to... Which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "22:15",
+        "part": "",
+        "text": "I will. Pi, Japan, 500 dollar..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "22:20",
+        "part": "",
+        "text": "$500? Green aurora borealis curtains come from solar particles striking oxygen 100 to 200,000 kilometers up during extreme geomagnetic storms. What creates the ultra-rare blood red tops and electric violet lower fringes?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "22:53",
+        "part": "",
+        "text": "Electro magnetic wave..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "22:56",
+        "part": "",
+        "text": "Yeah, I would guess that as well. High altitude atomic oxygen."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:01",
+        "part": "",
+        "text": "Oxygen. Wow, okay..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:03",
+        "part": "",
+        "text": "Okay, wow, that's..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:04",
+        "part": "",
+        "text": "High healthy to anomy. O..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:05",
+        "part": "",
+        "text": "Crazy interesting."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:07",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:07",
+        "part": "",
+        "text": "Ionize nitrogen molecules low down."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:12",
+        "part": "",
+        "text": "But how is it related to Japan?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:16",
+        "part": "",
+        "text": "I don't know, I think it got a little bit messed up, but I think it got a bit..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:19",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:21",
+        "part": "",
+        "text": "Atomic. There we go, and we're doing that. Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:26",
+        "part": "",
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:26",
+        "part": "",
+        "text": "I let you..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:26",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:26",
+        "part": "",
+        "text": "Par parcel that one because I think it's not..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "23:28",
+        "part": "",
+        "text": "It's okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "23:28",
+        "part": "",
+        "text": "Fair. I'm going to go for silicon logic and paradoxes. I'll give it to you, but $800. I think you... The Mon Hall Paradox behind three doors. I wish I gave it to myself now. So... I'll let you read it first, because it's a bit wordy."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "24:01",
+        "part": "",
+        "text": "Off to let you to switch to do to lo 3..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "24:11",
+        "part": "",
+        "text": "Have you ever seen this problem?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "24:13",
+        "part": "",
+        "text": "No one."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "24:14",
+        "part": "",
+        "text": "Let me show it to you, because it's quite fun, first of all, and plus, I think it's simpler to see it."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "24:18",
+        "part": "",
+        "text": "Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "24:20",
+        "part": "",
+        "text": "Okay, it's very fun. It's on American TV in the past. Monty Whole problem..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "24:31",
+        "part": "",
+        "text": "Opens the door to show good..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "24:36",
+        "part": "",
+        "text": "A okay."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "24:42",
+        "part": "",
+        "text": "For the day of painting. If you swish and you pick one over to that you switch to do to."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "25:00",
+        "part": "",
+        "text": "We go. So this is the actual... Here we go."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "25:13",
+        "part": "",
+        "text": "Here we go."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "25:13",
+        "part": "",
+        "text": "So this is..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "25:14",
+        "part": "",
+        "text": "The problem."
+      },
+      {
+        "speaker": "Video Clip",
+        "time": "25:40",
+        "part": "",
+        "text": "I'll take three."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "25:59",
+        "part": "",
+        "text": "So there are three doors..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:01",
+        "part": "",
+        "text": "And there's a sports..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:03",
+        "part": "",
+        "text": "Behind one of..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:03",
+        "part": "",
+        "text": "The doors."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:10",
+        "part": "",
+        "text": "And the problem..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:11",
+        "part": "",
+        "text": "Is that..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:12",
+        "part": "",
+        "text": "Obviously it's..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:13",
+        "part": "",
+        "text": "A one and..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:13",
+        "part": "",
+        "text": "Three chance."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:15",
+        "part": "",
+        "text": "Okay?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:16",
+        "part": "",
+        "text": "But what he does is..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:18",
+        "part": "",
+        "text": "He lets..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:19",
+        "part": "",
+        "text": "When you..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:21",
+        "part": "",
+        "text": "Now that they've revealed this..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:22",
+        "part": "",
+        "text": "One, he offers that they want to switch..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:26",
+        "part": "",
+        "text": "If they..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:26",
+        "part": "",
+        "text": "Want to..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:27",
+        "part": "",
+        "text": "Swap. So you have to..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:28",
+        "part": "",
+        "text": "Work out..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:28",
+        "part": "",
+        "text": "What is..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:29",
+        "part": "",
+        "text": "The actual probability now."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:32",
+        "part": "",
+        "text": "Okay, so the... Probability now..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:34",
+        "part": "",
+        "text": "Is 1 and..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:35",
+        "part": "",
+        "text": "3, right? 33 . 3. 333."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:39",
+        "part": "",
+        "text": "So what's the problem? So now I'll speed it..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "26:55",
+        "part": "",
+        "text": "I think I should show it to you like the premise here so it's a little bit more clearer. He'll be... It'll be very quick. He'll be good it taste quite slower."
+      },
+      {
+        "speaker": "Video Clip",
+        "time": "27:08",
+        "part": "",
+        "text": "So you've made it to the last round of a TV game show and have the chance to win a brand new car. It sits behind one of these three doors, but the other two have a sad little goat behind them. You make your choice and the host decides to reveal where one of the goats is. He then offers you a chance to change your door. Do you do it? Does changing your choice even make a difference? The short answer is yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "27:33",
+        "part": "",
+        "text": "I didn't think it was going to give it away then. I didn't think it was going to give away then, so let's go back to the question. So, yeah, so it's okay, so it does increase your probability, right? Well, so what is that probability, do you think? So you're on the game show, you choose one, but before he tells you the correct one, he opens one of them and says, \"It's not that.\" Then he says, \"Do you want to change your choice?\" So you got two left, and he says, \"Do you want to change to the other door?\" So they said, \"Should you change?\" And you should. But..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "28:15",
+        "part": "",
+        "text": "Yeah, I..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "28:15",
+        "part": "",
+        "text": "What is the new probability?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "28:16",
+        "part": "",
+        "text": "It should be higher than half, but how much? But isn't it still half? Why is it improving?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "28:38",
+        "part": "",
+        "text": "Why is it's so you had a one and three chances, right? But you but he just gave you 33% more, right? So mathematically, you should change, right? You should change because he you just got better rods. Let's why don't we go back to the video? Because it's a very short video here and there."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "29:07",
+        "part": "",
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "29:07",
+        "part": "",
+        "text": "Yeah. It's quite interesting, I think, yeah, we got..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "29:10",
+        "part": "",
+        "text": "I should."
+      },
+      {
+        "speaker": "Video Clip",
+        "time": "29:11",
+        "part": "",
+        "text": "Even though it seems counterintuitive, changing your door choice actually doubles your odds of winning the car. But how is that possible? This is the Monty Hall problem. At the start, most people correctly assume that you have a one in three chance of choosing the correct door, but it would be incorrect to assume that when one door is removed, each door now holds a 50/50 chance of having the car. Let's use a deck of cards to understand why pick a card from this deck without looking. This card has a one in 52 chance of being the ace of spades, but now I'm going to flip over all the other cards except one, none of which are the ace of spades. Of the two cards left, which one seems more likely to be the ace of spades? The one you chose randomly out of a deck of 52, or the one I purposely and suspiciously left turned down? It turns out your card remains at a chance of one in 52. Where my card now has a 51 out of 52 probability of being the ace of spades. The same principle is true with the three doors. You see, when I removed the door, I did so with motive, knowing there was a goat behind it. The only two scenarios that exist are A, you chose the correct door, and I'm arbitrarily picking one of the wrong choices to show you in which case staying will make you win. Or B, you pick the wrong door, and I show you the other incorrect answer, in which case switching will make you win. Scenario A will always happen when you choose the winning door, and B will always happen when you pick a losing door. Therefore, A will happen one-third of the time, and B will happen two-thirds of the time. As such, switching your door wins two out of three times. This paradox has perplexed many people, including scientists and mathematicians, to this day. Because our gut tells us that switching will have no consequence, but when using formal calculations or computer simulators, the results don't lie. Switching your door increases the probability of winning. Let's see it one more time using a chart. Here are all the possible scenarios. The car is behind door one, two, or three, and you have the choice of each three doors. This means there are nine possible outcomes. Let's tally them up quickly. If it's behind door one and you chose door one, you should stay. But if you chose door two or three, you should switch. If it's behind door two and you chose door two, you should stay, but the other two, you should switch. Add it all up, and you should switch six out of nine times. So, do you still trust your gut feeling? Got a burning question you want answered? Ask it in the comment."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "31:28",
+        "part": "",
+        "text": "Yeah. So if you go to Japan and you're a Japanese game show, and they go, \"Where is the kimono or something?\" Which door to switch, right? Yeah. Have you never seen that before? Okay, in England, in America, it's quite normal to have this game. So what's the probability?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "31:59",
+        "part": "",
+        "text": "It's the 66%, but I still don't know why I don't get it."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "32:08",
+        "part": "",
+        "text": "Because it's slightly..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "32:11",
+        "part": "",
+        "text": "Slightly rightse."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "32:11",
+        "part": "",
+        "text": "Biased against the losing doors. Okay, yeah, so for example, he's they reveal a door."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "32:24",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "32:25",
+        "part": "",
+        "text": "Well, that's the problem, they reveal a door. So your odds have increased, so you should bear that in mind. Yeah, okay, but yeah, very good. I'll give you the points. That's good. Okay, so..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "32:41",
+        "part": "",
+        "text": "It's okay. I didn't get it."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "32:45",
+        "part": "",
+        "text": "I'll go for Western blind spot and subtext British corporate subtext. If you pitch an ambitious and ambitious chip schedule in London and a British director smiles warmly and says, well, that's a very brave proposal. What did they actually mean? As well, if that's a very brave, it means it's extremely. Really? Well, yeah, that's so I would say, well, that is a very brave that is a very brave proposal. That is a very brave yeah, that is a very brave. No, I want to say it's a complete disaster. I would say maybe here. Okay anyway, I got it wrong. According to that, which one would you like..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "33:46",
+        "part": "",
+        "text": "Hidden Japan. $400."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "33:49",
+        "part": "",
+        "text": "Learn? Why did Tokyo remove almost all public street trash bins in 1995, forcing businesses in Shabuya and Vu to carry wrappers in their bags even though the city remains spotless?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "34:09",
+        "part": "",
+        "text": "They want to enforce trash separation."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "34:17",
+        "part": "",
+        "text": "Yeah, you think it's that? Okay, yeah, fair enough. Let's have a look for security after the 1995 Tokyo..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "34:26",
+        "part": "",
+        "text": "Okay. Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "34:26",
+        "part": "",
+        "text": "Subway sarin attack. Okay? It's annoying, right? There are no bins in Tokyo. It's really annoying. But do okay, we still do. Well, we've still got a hundred. Okay, I'm going to go for silicon logic at the physical limit of Moore's law. Why can silicon transistors not shrink off below one nanometer? About electrons mysteriously ghosting straight through closed barriers even when the gate is switched off. Alright, let me ask. Think about this mystery ghost. Shrinking, I think so. I don't know, because it's, so low, it's when you measure it, right, it's, i don't know, you it collapses, right? I don't know, I is that, on the in the wave quantum tunneling, a sub nanometer thickness electron act as probability waves and tunnel right through insulating oxide walls, creating leakage currents. I think I was wrong. I think I was wrong. My answer is. Not good enough. Okay. Did you know this?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "35:48",
+        "part": "",
+        "text": "No. We don't do 1nm chips, so... I don't know."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "35:55",
+        "part": "",
+        "text": "Okay, I know it has something to do... Obviously, we could all guess that it's something to do..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "36:01",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "36:01",
+        "part": "",
+        "text": "With collapsing waves. Okay, here we go, and which one would you like next?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "36:07",
+        "part": "",
+        "text": "I'll pick the silicon. 500..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "36:10",
+        "part": "",
+        "text": "Silicon 500. The birthday paradox in a room of random strangers, what is the minimum number of people needed? So there is more than a 50% probability that two of them share the exact same birthday? I'm going to guess as well, I think I could guess."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "36:31",
+        "part": "",
+        "text": "More than 50% probability. Two of them share this existing birthday. Two of them those 50 say twelve."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "36:54",
+        "part": "",
+        "text": "I don't know why..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "36:55",
+        "part": "",
+        "text": "My guess is chro..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "37:00",
+        "part": "",
+        "text": "I think it's... I'm going to get 72, we go..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "37:02",
+        "part": "",
+        "text": "W why is this? Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "37:04",
+        "part": "",
+        "text": "I don't know, 2323..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "37:05",
+        "part": "",
+        "text": "Why is it 2323?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "37:09",
+        "part": "",
+        "text": "Okay, seventy people is 99%. Okay, so yeah, I forgot. Just 23 people equals 50.7%. Because there are 250 unique pairs to compare by 70 people, it hits 99.9%. I knew 70 was a number about this problem, but 7072. Okay, when's your birthday?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "37:38",
+        "part": "",
+        "text": "N of September. Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "37:40",
+        "part": "",
+        "text": "Yeah, so I'm the 21st of July."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "37:44",
+        "part": "",
+        "text": "I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "37:45",
+        "part": "",
+        "text": "Yeah, okay, Miro, is it Wago? Yeah, I'll do this one here. Western called no win circular traps. A catch 22... Needing experience to get hired, yet needing to get hired to gain experience. What 961 story invented catch 22? What was the trap? No idea. I have no idea. Do you know it all?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "38:27",
+        "part": "",
+        "text": "No..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "38:28",
+        "part": "",
+        "text": "Have you ever heard of catch 22?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "38:31",
+        "part": "",
+        "text": "I think so. I can't remember where you came from."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "38:35",
+        "part": "",
+        "text": "Yeah, so catch 22 is when... Yeah, like in the example, I need to get better at basketball, but there are no basketball courts or something. It's circular, negative. Joseph Heller's World War II novel, Catch 22. Bomber pilots could be excused from deadly fights only if declared insane. But asking to avoid danger proves you're rational and sane. Catch 22. Because obviously, if you're crazy, you would probably want to do it. Or..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "39:15",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "39:15",
+        "part": "",
+        "text": "Do something else. Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "39:17",
+        "part": "",
+        "text": "Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "39:18",
+        "part": "",
+        "text": "Wow. Okay, which one would you like?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "39:25",
+        "part": "",
+        "text": "I will get the chemistry 400."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "39:28",
+        "part": "",
+        "text": "Chemistry 400. Why does inhaling helium make your voice sound like a car, a cartoon chipmunk, even though helium does not actually change the vibration frequency pitch of your vocal cords at all? Have you ever done that? Have you ever had a balloon and..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "40:01",
+        "part": "",
+        "text": "No, I've not..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "40:02",
+        "part": "",
+        "text": "Experience was never? Okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "40:04",
+        "part": "",
+        "text": "Never for because it your throat gets bigger."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "40:12",
+        "part": "",
+        "text": "Now think about the helium. What's unique about helium? Okay, what happens to helium in the atmosphere?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "40:20",
+        "part": "",
+        "text": "He knew even float the to float to towards the sky..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "40:31",
+        "part": "",
+        "text": "Yeah, but then where does it go after that?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "40:35",
+        "part": "",
+        "text": "Atmosphere ozone the a..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "40:37",
+        "part": "",
+        "text": "Yeah, and after that, it's to space, right? It leaks out, so why does it float so much?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "40:49",
+        "part": "",
+        "text": "It is it has a lower density."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "40:52",
+        "part": "",
+        "text": "So how do you think it how do you think it acts when it goes through your vocal tract? How do you think it like, what is what's going on? I think it. I think it's because it's lighter, it moves faster. I think. I think said..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "41:15",
+        "part": "",
+        "text": "Okay. I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "41:20",
+        "part": "",
+        "text": "Pro everything, yeah, okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "41:25",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "41:25",
+        "part": "",
+        "text": "Yeah, you never been to a birthday party being like, hello everybody, happy birthday, you know, well, okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "41:37",
+        "part": "",
+        "text": "You can have it."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "41:38",
+        "part": "",
+        "text": "Are you sure? Yes..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "41:42",
+        "part": "",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "41:42",
+        "part": "",
+        "text": "I'm going to take this one here. Why is unwanted junk email called spam? Originally, it was a brand of canned ham. Which legendary 1970s British comedian group accidentally inspired hackers to name it that? I don't know, I think spam because the English gave it away, and people don't like the English. I think something like that or Americans or something, I don't know, the ban, I'm guessing the who, I don't know. Do you have any ideas?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "42:20",
+        "part": "",
+        "text": "No ili..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "42:21",
+        "part": "",
+        "text": "No..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "42:21",
+        "part": "",
+        "text": "No beaters..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "42:23",
+        "part": "",
+        "text": "Yeah, Monty Python. I thought it was a comedy group. Sorry. Okay. 90 seventies Cafe Sketch. A table of Vikings drowns out every normal conversation by loudly singing spam nonstop. Okay, that's why. Interesting. Do you know which country the World Wide Web? So, do you know not the country, but do you know the guy who invented the World Wide Web? Do you know which countries he's from? England?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "42:55",
+        "part": "",
+        "text": "No. Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "42:57",
+        "part": "",
+        "text": "Yeah, okay, I got that wrong. Which one would you like next?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "43:04",
+        "part": "",
+        "text": "I will take the chemistry and bed sliize."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "43:07",
+        "part": "",
+        "text": "Are you sure? You're doing... Want this one?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "43:09",
+        "part": "",
+        "text": "Okay, any anyone I won't know anyway that she fing a solid ro o mi one deserves. What's the name?"
+      },
+      {
+        "speaker": "Lewis",
+        "time": "43:39",
+        "part": "",
+        "text": "Do you know this one?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "43:45",
+        "part": "",
+        "text": "Latin name, but is its Latin name? No idea."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "43:55",
+        "part": "",
+        "text": "No, I don't know either. AG Riga... Chemist... GE Kai dissolved two gold noble medals into an orange baker of Aca Riga on his shelf and..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "44:11",
+        "part": "",
+        "text": "Ncion. Yes."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "44:12",
+        "part": "",
+        "text": "Swear the code back. Wow, have you heard of this before? Right. Interesting."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "44:20",
+        "part": "",
+        "text": "I've heard of this before."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "44:23",
+        "part": "",
+        "text": "Okay, so last one, calling a costly, useless project you can't get rid of a white elephant comes from a real Southeast Asian royal punishment. Why did ancient kings of Siam give sacred white elephants to courtiers who displease them? Do you know this answer?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "44:48",
+        "part": "",
+        "text": "No."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "44:50",
+        "part": "",
+        "text": "I'm guessing, white elephants are angry, I don't know..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "44:57",
+        "part": "",
+        "text": "Okay."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "44:58",
+        "part": "",
+        "text": "Scared why elephants couldn't legally be put to work or given away. Sacred. Okay, yeah, cost a fortune to feed and pamper. Politely bankrupting the recipient. Okay. So now we have to do Final Jeopardy. So we have to gamble. So I'm doing very badly. So you can play it smart. Even if I get it right, so I'm going to wager $2,200. I have to wager $2,300. How much would you like to wager? $400? Go, here we go. Only one person in history has ever won Nobel Prizes in two different sciences, physics and chemistry. Even today, her 120-year-old lab notebooks in Paris must be kept inside. Let all... Madam Curie."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "46:15",
+        "part": "",
+        "text": "One of two elements. Radio..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "46:18",
+        "part": "",
+        "text": "We have to name the... Okay, and then one of the two elements, radium. Okay..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "46:25",
+        "part": "",
+        "text": "Maybe..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "46:26",
+        "part": "",
+        "text": "As... But yeah, you're right..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "46:28",
+        "part": "",
+        "text": "No, yeah, okay..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "46:30",
+        "part": "",
+        "text": "Yeah, well, that's what I didn't get right. I didn't know radium, no polonium."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "46:38",
+        "part": "",
+        "text": "PO polonium..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "46:39",
+        "part": "",
+        "text": "Okay, very good. Bonan, you got zero. Yeah, to be honest, I purposely made it difficult for you, maybe a bit too difficult, but I thought it would be good for you to..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "46:54",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "46:54",
+        "part": "",
+        "text": "Yeah. Okay, very good. So you've never seen this show Jeopardy? You've never seen it before? Yeah, it's..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:04",
+        "part": "",
+        "text": "I only know the one, who wins million dollar or stuff like that. Something like that."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "47:13",
+        "part": "",
+        "text": "Okay, next week. Yeah, to be honest, I used to teach a lot of children in the past, and so I did make who Wants to be a Millionaire, but I did it with do you know OBS?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:32",
+        "part": "",
+        "text": "O yes..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "47:33",
+        "part": "",
+        "text": "Yeah, and so it's on my screen."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:36",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "47:37",
+        "part": "",
+        "text": "Yeah, and the kids used to go, \"Yeah, I used to sell it to other teachers as well because it had its own question editor and stuff.\""
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:47",
+        "part": "",
+        "text": "I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "47:47",
+        "part": "",
+        "text": "Yeah, JSON files or stuff like that. Okay, very good. So... What do you...? I suppose you're at the end of your day."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:55",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "47:56",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "47:56",
+        "part": "",
+        "text": "It is nine, 99 20 pm..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:01",
+        "part": "",
+        "text": "Have you had dinner?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:03",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:04",
+        "part": "",
+        "text": "What did you have for dinner?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:06",
+        "part": "",
+        "text": "Rice and cabbage and pork."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:11",
+        "part": "",
+        "text": "Okay, very nice. I had crab soup for dinner..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:15",
+        "part": "",
+        "text": "The Vietnamese..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:15",
+        "part": "",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:16",
+        "part": "",
+        "text": "Scrap soup."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:18",
+        "part": "",
+        "text": "Yes... I don't know why I've had it every day for two weeks. Yeah. It's because the lady said to me, \"When are you going to come?\" and I said, \"Every day.\" So I don't know why I'm trying to live up to it, but it's only $1. It's only $1."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:36",
+        "part": "",
+        "text": "So I see."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:37",
+        "part": "",
+        "text": "So cheap. Yeah, it's really good. Okay... Well, thank you very much."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:42",
+        "part": "",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:42",
+        "part": "",
+        "text": "I will see you next week or are you going to Tokyo next week?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:49",
+        "part": "",
+        "text": "I think next week should still be fine. I'm going..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:52",
+        "part": "",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "48:52",
+        "part": "",
+        "text": "On Thursday, so Wednesday should be fine."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "48:56",
+        "part": "",
+        "text": "Okay... Maybe, okay, no problem at all. Well, have a lovely week. I know you're very busy, so all the best and thank you very much."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:04",
+        "part": "",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:04",
+        "part": "",
+        "text": "Jes. Goodbye. Thank you."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:06",
+        "part": "",
+        "text": "Will. Will I be getting the transcript? Or. It. It is..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:09",
+        "part": "",
+        "text": "Have you...?"
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:09",
+        "part": "",
+        "text": "Not applicable for this..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:12",
+        "part": "",
+        "text": "I can send it now, but I've just made sure. I'll send it right now as well. One second, before I forget, please. Send and upload this transcript. But you should have the other one as well. I'll double-check for that one as well. But I'll say it straight away now. Okay. Thank you very..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:43",
+        "part": "",
+        "text": "YP. Sure."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:43",
+        "part": "",
+        "text": "Much and have..."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:44",
+        "part": "",
+        "text": "Yeah. Thank..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:44",
+        "part": "",
+        "text": "A lovely day."
+      },
+      {
+        "speaker": "Wei Jing",
+        "time": "49:45",
+        "part": "",
+        "text": "You... Thank..."
+      },
+      {
+        "speaker": "Lewis",
+        "time": "49:45",
+        "part": "",
+        "text": "Thank you..."
       }
     ]
   }
